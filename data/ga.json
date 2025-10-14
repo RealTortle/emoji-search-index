@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "aghaidh agus sprochaillí faoi na súile",
+      "sprochaillí",
+      "súile",
+      "póit",
+      "póit air/uirthi",
+      "tuirseach"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "méarlorg",
+      "méar",
+      "méarlorg"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "portán",
+      "ailse",
+      "stoidiaca"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "gliomach",
+      "Ainmhí",
+      "bisque",
+      "crúba",
+      "gliomach dearg",
+      "bia mara"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "ribí róibéis",
+      "Bia",
+      "sliogéisc",
+      "Beag"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "squid",
+      "Ainmhí",
+      "Bia",
+      "moilisc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "oisrí",
+      "tumadóireacht",
+      "péarla"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "crann lom",
+      "géag",
+      "crann",
+      "tamhan"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "beacán donn"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "glasra fréimhe",
+      "raidis",
+      "fréamh",
+      "glasra"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "pail oisrí"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "portán",
-      "ailse",
-      "stoidiaca"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "gliomach",
-      "Ainmhí",
-      "bisque",
-      "crúba",
-      "gliomach dearg",
-      "bia mara"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "ribí róibéis",
-      "Bia",
-      "sliogéisc",
-      "Beag"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "squid",
-      "Ainmhí",
-      "Bia",
-      "moilisc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "oisrí",
-      "tumadóireacht",
-      "péarla"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Tostach",
       "Fuaim",
       "Callaire",
+      "fuaim",
       "toirte"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Callaire",
       "bog",
       "Fuaim",
-      "toirt íseal cainteoir"
+      "toirt íseal cainteoir",
+      "fuaim"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Fuaim",
       "Meán",
-      "cainteoir toirt mheán"
+      "cainteoir toirt mheán",
+      "fuaim"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "glórach",
       "Ceol",
       "Fuaim",
-      "toirt ard cainteoir"
+      "toirt ard cainteoir",
+      "fuaim"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "sleamhnán leibhéal",
       "leibhéal",
       "Ceol",
-      "sleamhnán"
+      "sleamhnán",
+      "airde"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "píopa",
       "taifeadán",
       "gaoth adhmaid"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "cláirseach",
+      "gléas",
+      "ceol"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "sluasaid",
+      "tochail"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "uisce inólta",
       "ag ól",
       "inólta",
-      "uisce"
+      "uisce",
+      "sconna",
+      "doirteal",
+      "spiogóid"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "steall",
+      "steallóg",
+      "smál"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "oileán Clipperton"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "bratach na Sairce",
+      "bratach",
+      "an tSairc"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

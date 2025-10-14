@@ -4,8 +4,8 @@
     "shortName": "grinning",
     "tags": [
       "grijnzend",
-      "vrolijke",
-      "vrolijke",
+      "vrolijk",
+      "vrolijk",
       "gezicht",
       "grijns",
       "grijnzend gezicht",
@@ -33,7 +33,7 @@
       "lachend",
       "lachend gezicht met open mond",
       "tanden",
-      "yay"
+      "jeej"
     ],
     "rank": 50
   },
@@ -124,7 +124,7 @@
     "shortName": "rolling_on_the_floor_laughing",
     "tags": [
       "rollend over de vloer van het lachen",
-      "huilen lachen",
+      "tranen lachen",
       "huilend",
       "gezicht",
       "vloer",
@@ -146,7 +146,7 @@
       "rofl",
       "roflmao",
       "rollend",
-      "scheur",
+      "traan",
       "tranen",
       "huil",
       "rotfl"
@@ -159,7 +159,7 @@
     "tags": [
       "joy",
       "huilend",
-      "huilen lachen",
+      "tranen lachen",
       "gezicht",
       "gezicht met tranen van vreugde",
       "voelt",
@@ -179,7 +179,7 @@
       "lololol",
       "rofl",
       "roflmao",
-      "scheur",
+      "traan",
       "tranen",
       "huil"
     ],
@@ -209,7 +209,7 @@
       "ach",
       "sarcasme",
       "sarcastisch",
-      "domme",
+      "dom",
       "uh oh"
     ],
     "rank": 69
@@ -231,7 +231,7 @@
       "druipend",
       "beschaamd",
       "verzakking",
-      "schande"
+      "schaam"
     ],
     "rank": 0
   },
@@ -256,7 +256,7 @@
     "emoji": "😊",
     "shortName": "blush",
     "tags": [
-      "blush",
+      "bloos",
       "oog",
       "gezicht",
       "blij",
@@ -359,7 +359,7 @@
     "tags": [
       "kussend hart",
       "143",
-      "adorbs",
+      "schattig",
       "bae",
       "gezicht",
       "gezicht dat een kus uitblaast",
@@ -377,7 +377,7 @@
       "nacht",
       "romantiek",
       "romantische",
-      "smooch",
+      "knuffel",
       "smooches",
       "xoxo",
       "kissy"
@@ -390,7 +390,7 @@
     "tags": [
       "zoenend",
       "143",
-      "De datum",
+      "date",
       "dating",
       "gezicht",
       "flirt",
@@ -400,7 +400,7 @@
       "kussend gezicht",
       "liefde",
       "hou van je",
-      "smooch",
+      "knuffel",
       "smooches",
       "xoxo",
       "kissy",
@@ -427,12 +427,12 @@
     "emoji": "😚",
     "shortName": "kissing_closed_eyes",
     "tags": [
-      "Kussen met gesloten ogen",
+      "kussen met gesloten ogen",
       "143",
       "bae",
-      "blush",
+      "bloos",
       "gesloten",
-      "De datum",
+      "date",
       "dating",
       "oog",
       "gezicht",
@@ -454,7 +454,7 @@
       "kussende lachende ogen",
       "143",
       "gesloten ogen",
-      "De datum",
+      "date",
       "dating",
       "oog",
       "gezicht",
@@ -482,7 +482,7 @@
       "trots",
       "glimlach",
       "smiley",
-      "scheur",
+      "traan",
       "raakte",
       "opgelucht",
       "lachend"
@@ -494,8 +494,8 @@
     "shortName": "yum",
     "tags": [
       "yum",
-      "heerlijke",
-      "eet",
+      "heerlijk",
+      "eten",
       "gezicht",
       "gezicht genietend van heerlijk eten",
       "Voedsel",
@@ -563,7 +563,7 @@
       "oog",
       "ogen",
       "groot",
-      "Kleine bestanden",
+      "klein",
       "goofy",
       "grijnzend gezicht met één groot en één klein oog",
       "domme"
@@ -642,7 +642,7 @@
       "shock",
       "geschokt",
       "verrassing",
-      "cover",
+      "bedekken",
       "verrast"
     ],
     "rank": 0
@@ -659,7 +659,7 @@
       "gluren",
       "bang",
       "verlegen",
-      "cover",
+      "verstoppen",
       "nieuwsgierig"
     ],
     "rank": 0
@@ -752,7 +752,7 @@
       "neutraal gezicht",
       "awk",
       "onhandig",
-      "Fout",
+      "fout",
       "basis",
       "blanco",
       "dood",
@@ -788,7 +788,7 @@
       "uitdrukkingsloos",
       "awk",
       "onhandig",
-      "Fout",
+      "fout",
       "basis",
       "kosten",
       "dood",
@@ -829,7 +829,7 @@
       "gezicht zonder mond",
       "mond",
       "mondloze",
-      "Meldingen dempen",
+      "dempen",
       "rustig",
       "geheim",
       "stilte",
@@ -1000,7 +1000,7 @@
     "tags": [
       "schuddend gezicht",
       "gekke",
-      "daze",
+      "verbaasd",
       "aardbeving",
       "omg",
       "paniek",
@@ -1056,7 +1056,7 @@
     "shortName": "pensive",
     "tags": [
       "nadenkend",
-      "vreselijke",
+      "vreselijk",
       "verveeld",
       "neerslachtig",
       "overleden",
@@ -1079,7 +1079,7 @@
       "huilend",
       "gezicht",
       "triest",
-      "Wanneer ik slaap",
+      "slaap",
       "slapend",
       "slaperig gezicht",
       "moe",
@@ -1112,7 +1112,7 @@
       "goedenacht",
       "dut",
       "nacht",
-      "Wanneer ik slaap",
+      "slaap",
       "slapend gezicht",
       "moe",
       "wat dan ook",
@@ -1122,6 +1122,19 @@
       "zzzz"
     ],
     "rank": 72
+  },
+  {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "gezicht met wallen onder de ogen",
+      "wallen",
+      "ogen",
+      "kater",
+      "brak",
+      "moe"
+    ],
+    "rank": 0
   },
   {
     "emoji": "😷",
@@ -1233,7 +1246,7 @@
     "shortName": "cold_face",
     "tags": [
       "koud gezicht",
-      "Blauw",
+      "blauw",
       "blauw gezicht",
       "koud",
       "koude tanden",
@@ -1577,7 +1590,7 @@
       "verbaasd",
       "awk",
       "onhandig",
-      "geef de schuld aan",
+      "schuld",
       "verdwaasd",
       "dood",
       "ongeloof",
@@ -1601,7 +1614,7 @@
     "shortName": "pleading_face",
     "tags": [
       "smekend gezicht",
-      "bedelend",
+      "smekend",
       "grote ogen",
       "gezicht",
       "mercy",
@@ -1678,7 +1691,7 @@
       "bang",
       "bang",
       "angstig",
-      "geef de schuld aan",
+      "schuld",
       "gezicht",
       "angst",
       "angstig gezicht",
@@ -1692,7 +1705,7 @@
     "shortName": "cold_sweat",
     "tags": [
       "angstzweet",
-      "Blauw",
+      "blauw",
       "koud",
       "eek",
       "gezicht",
@@ -1733,14 +1746,14 @@
     "shortName": "cry",
     "tags": [
       "huil",
-      "vreselijke",
+      "vreselijk",
       "huilend",
       "huilend gezicht",
       "gezicht",
       "voelt",
       "miss",
       "triest",
-      "scheur",
+      "traan",
       "triste",
       "ongelukkig"
     ],
@@ -1757,7 +1770,7 @@
       "gezicht",
       "luid huilend gezicht",
       "triest",
-      "scheur",
+      "traan",
       "tranen",
       "ongelukkig"
     ],
@@ -1806,7 +1819,7 @@
     "shortName": "persevere",
     "tags": [
       "volhouden",
-      "concentraat",
+      "concentreren",
       "concentratie",
       "gezicht",
       "Nu even focussen",
@@ -1821,8 +1834,8 @@
     "shortName": "disappointed",
     "tags": [
       "teleurgesteld",
-      "vreselijke",
-      "geef de schuld aan",
+      "vreselijk",
+      "schuld",
       "neerslachtig",
       "teleurgesteld gezicht",
       "gezicht",
@@ -1850,7 +1863,7 @@
       "bang",
       "dat was dichtbij",
       "yikes",
-      "drop"
+      "druppel"
     ],
     "rank": 138
   },
@@ -1902,7 +1915,7 @@
       "goedenacht",
       "dut",
       "nacht",
-      "Wanneer ik slaap",
+      "slaap",
       "slaperig",
       "moe",
       "wat dan ook",
@@ -1962,7 +1975,7 @@
       "boos",
       "woede",
       "boos gezicht",
-      "geef de schuld aan",
+      "schuld",
       "gezicht",
       "voelt",
       "gefrustreerd",
@@ -1982,7 +1995,7 @@
       "gezicht met symbolen op de mond",
       "censor",
       "vloekend",
-      ".",
+      "vloeken",
       "gekke",
       "pissig",
       "vloeken",
@@ -2006,7 +2019,7 @@
       "schaduw",
       "glimlach",
       "lachend gezicht met horens",
-      "demon",
+      "demoon",
       "slinkse",
       "vervelende"
     ],
@@ -2018,7 +2031,7 @@
     "tags": [
       "imp",
       "boos gezicht met horens",
-      "demon",
+      "demoon",
       "duivel",
       "kwaad",
       "gezicht",
@@ -2123,7 +2136,7 @@
       "monster",
       "ogre",
       "enge",
-      "demon"
+      "demoon"
     ],
     "rank": 260
   },
@@ -2142,7 +2155,7 @@
       "masker",
       "gemiddelde",
       "monster",
-      "demon",
+      "demoon",
       "duivel"
     ],
     "rank": 402
@@ -2220,7 +2233,7 @@
       "gezicht",
       "monster",
       "robot",
-      "Android"
+      "android"
     ],
     "rank": 525
   },
@@ -2229,7 +2242,7 @@
     "shortName": "smiley_cat",
     "tags": [
       "lachende kat",
-      "Dieren",
+      "dieren",
       "kat",
       "gezicht",
       "mond",
@@ -2245,7 +2258,7 @@
     "shortName": "smile_cat",
     "tags": [
       "lachende kat",
-      "Dieren",
+      "dieren",
       "kat",
       "oog",
       "gezicht",
@@ -2260,7 +2273,7 @@
     "shortName": "joy_cat",
     "tags": [
       "vrolijke kat",
-      "Dieren",
+      "dieren",
       "kat",
       "kattengezicht met tranen van vreugde",
       "gezicht",
@@ -2268,7 +2281,7 @@
       "lach",
       "lachen",
       "lol",
-      "scheur"
+      "traan"
     ],
     "rank": 131
   },
@@ -2277,7 +2290,7 @@
     "shortName": "heart_eyes_cat",
     "tags": [
       "hart ogen kat",
-      "Dieren",
+      "dieren",
       "kat",
       "oog",
       "gezicht",
@@ -2294,7 +2307,7 @@
     "shortName": "smirk_cat",
     "tags": [
       "grijnzende kat",
-      "Dieren",
+      "dieren",
       "kat",
       "kattengezicht met wrange glimlach",
       "gezicht",
@@ -2309,7 +2322,7 @@
     "shortName": "kissing_cat",
     "tags": [
       "kussende kat",
-      "Dieren",
+      "dieren",
       "kat",
       "oog",
       "gezicht",
@@ -2323,7 +2336,7 @@
     "shortName": "scream_cat",
     "tags": [
       "schreeuw kat",
-      "Dieren",
+      "dieren",
       "kat",
       "gezicht",
       "oh",
@@ -2339,12 +2352,12 @@
     "shortName": "crying_cat_face",
     "tags": [
       "huilend kattengezicht",
-      "Dieren",
+      "dieren",
       "kat",
       "huil",
       "gezicht",
       "triest",
-      "scheur",
+      "traan",
       "huilende kat"
     ],
     "rank": 317
@@ -2354,7 +2367,7 @@
     "shortName": "pouting_cat",
     "tags": [
       "pruilende kat",
-      "Dieren",
+      "dieren",
       "kat",
       "gezicht",
       "pruilend",
@@ -2367,7 +2380,7 @@
     "shortName": "see_no_evil",
     "tags": [
       "zie geen kwaad",
-      "Dieren",
+      "dieren",
       "kan niet kijken",
       "beschaamd",
       "kwaad",
@@ -2396,7 +2409,7 @@
     "shortName": "hear_no_evil",
     "tags": [
       "hoor geen kwaad",
-      "Dieren",
+      "dieren",
       "oren",
       "kwaad",
       "gezicht",
@@ -2421,7 +2434,7 @@
     "shortName": "speak_no_evil",
     "tags": [
       "spreek geen kwaad",
-      "Dieren",
+      "dieren",
       "kwaad",
       "gezicht",
       "verboden",
@@ -2436,7 +2449,7 @@
       "Voorlezen",
       "spreek geen kwaad aap",
       "stealth",
-      "Meldingen dempen"
+      "dempen"
     ],
     "rank": 150
   },
@@ -2461,9 +2474,9 @@
     "tags": [
       "cupido",
       "143",
-      "adorbs",
+      "schattig",
       "pijl",
-      "De datum",
+      "date",
       "emotie",
       "Hartje",
       "hart met pijl",
@@ -2537,7 +2550,7 @@
     "tags": [
       "hartslag",
       "143",
-      "het verslaan van",
+      "kloppend",
       "kloppend hart",
       "cardio",
       "emotie",
@@ -2555,7 +2568,7 @@
     "tags": [
       "draaiende harten",
       "143",
-      "adorbs",
+      "schattig",
       "jubileum",
       "emotie",
       "Hartje",
@@ -2570,7 +2583,7 @@
       "twee harten",
       "143",
       "jubileum",
-      "De datum",
+      "date",
       "dating",
       "emotie",
       "Hartje",
@@ -2617,9 +2630,9 @@
     "shortName": "broken_heart",
     "tags": [
       "gebroken hart",
-      "break",
       "gebroken",
-      "vermalen",
+      "gebroken",
+      "gebroken hart",
       "emotie",
       "gebroken hart",
       "eenzame",
@@ -2652,7 +2665,7 @@
     "shortName": "mending_heart",
     "tags": [
       "het hart herstellen",
-      "Verband",
+      "verbonden",
       "gebroken",
       "genezen",
       "liefdesverdriet",
@@ -2749,7 +2762,7 @@
     "tags": [
       "blauw hart",
       "143",
-      "Blauw",
+      "blauw",
       "emotie",
       "Hartje",
       "familie",
@@ -2861,7 +2874,7 @@
       "lippen",
       "romantiek",
       "sexy",
-      "smooch"
+      "knuffel"
     ],
     "rank": 62
   },
@@ -2957,10 +2970,10 @@
     "emoji": "💨",
     "shortName": "dash",
     "tags": [
-      "streepje",
+      "wegrennen",
       "cloud",
       "strip",
-      "die wegloopt",
+      "weglopen",
       "scheet",
       "Snel",
       "weg",
@@ -2989,7 +3002,7 @@
       "strip",
       "dialoog",
       "Bericht verzenden",
-      "Sms (niet versleuteld)",
+      "Sms",
       "Spraak",
       "praat",
       "tekst",
@@ -3068,7 +3081,7 @@
       "strip",
       "goedenacht",
       "nacht",
-      "Wanneer ik slaap",
+      "slaap",
       "slapend",
       "slaperig",
       "moe",
@@ -3082,7 +3095,7 @@
     "shortName": "wave",
     "tags": [
       "golf",
-      "Dag",
+      "dag",
       "cya",
       "felicia",
       "g2g",
@@ -3191,8 +3204,8 @@
     "shortName": "palm_down_hand",
     "tags": [
       "handpalm naar beneden",
-      "drop",
-      "gedaald",
+      "laten vallen",
+      "laten vallen",
       "hand",
       "kies",
       "ophalen",
@@ -3221,7 +3234,7 @@
     "shortName": "leftwards_pushing_hand",
     "tags": [
       "naar links duwende hand",
-      "Persoon blokkeren",
+      "blokkeren",
       "stop",
       "hand",
       "high five",
@@ -3241,7 +3254,7 @@
     "shortName": "rightwards_pushing_hand",
     "tags": [
       "naar rechts duwende hand",
-      "Persoon blokkeren",
+      "blokkeren",
       "stop",
       "hand",
       "high five",
@@ -3304,7 +3317,7 @@
       "knijpende hand",
       "vingers",
       "beetje",
-      "Kleine bestanden",
+      "klein",
       "kleine hoeveelheid",
       "soort van",
       "kleine"
@@ -3328,7 +3341,7 @@
     "shortName": "crossed_fingers",
     "tags": [
       "gekruiste vingers",
-      "cross",
+      "kruis",
       "vinger",
       "fingers crossed",
       "hand",
@@ -3384,7 +3397,7 @@
     "emoji": "🤙",
     "shortName": "call_me_hand",
     "tags": [
-      "noem me hand",
+      "bel me hand",
       "Bellen",
       "hand",
       "rechts op",
@@ -3531,7 +3544,7 @@
     "shortName": "-1",
     "tags": [
       "1",
-      "Fout",
+      "fout",
       "heb een hekel aan",
       "naar beneden",
       "hand",
@@ -3702,7 +3715,7 @@
       "bid",
       "waarderen",
       "vraag",
-      "beg",
+      "smeken",
       "gezegend",
       "boog",
       "cmon",
@@ -3772,7 +3785,7 @@
       "bodybuilder",
       "bro",
       "strip",
-      "krullen",
+      "curls",
       "flex",
       "gebogen biceps",
       "buigen",
@@ -3845,7 +3858,7 @@
       "gehoor",
       "luister",
       "luisteren",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 469
   },
@@ -4114,7 +4127,7 @@
       "persoon met baard",
       "baard",
       "bebaarde",
-      "betast",
+      "behaard",
       "persoon"
     ],
     "rank": 810
@@ -5233,7 +5246,7 @@
     "shortName": "technologist",
     "tags": [
       "technoloog",
-      "coder",
+      "ontwikkelaar",
       "ontwikkelaar",
       "uitvinder",
       "programmeur",
@@ -5246,7 +5259,7 @@
     "shortName": "male-technologist",
     "tags": [
       "mannelijke technoloog",
-      "coder",
+      "ontwikkelaar",
       "computer",
       "ontwikkelaar",
       "uitvinder",
@@ -5262,7 +5275,7 @@
     "shortName": "female-technologist",
     "tags": [
       "vrouwelijke technoloog",
-      "coder",
+      "ontwikkelaar",
       "computer",
       "ontwikkelaar",
       "uitvinder",
@@ -5981,7 +5994,7 @@
     "tags": [
       "mx claus",
       "kerst",
-      "hoed",
+      "muts",
       "vakantie",
       "vrolijk kerstfeest",
       "persoon",
@@ -6049,7 +6062,7 @@
     "shortName": "supervillain",
     "tags": [
       "superschurk",
-      "Fout",
+      "fout",
       "crimineel",
       "kwaad",
       "supermacht",
@@ -6063,7 +6076,7 @@
     "shortName": "male_supervillain",
     "tags": [
       "mannelijke superschurk",
-      "Fout",
+      "fout",
       "slechte kerel",
       "crimineel",
       "kwaad",
@@ -6082,7 +6095,7 @@
     "shortName": "female_supervillain",
     "tags": [
       "vrouwelijke superschurk",
-      "Fout",
+      "fout",
       "crimineel",
       "kwaad",
       "supermacht",
@@ -6297,7 +6310,7 @@
       "mannelijke geest",
       "djinn",
       "genie",
-      "Djinn",
+      "djinn",
       "man genie",
       "mannelijk"
     ],
@@ -6310,7 +6323,7 @@
       "vrouwelijke geest",
       "djinn",
       "genie",
-      "Djinn",
+      "djinn",
       "vrouwelijke geest",
       "vrouwelijke"
     ],
@@ -6456,7 +6469,7 @@
     "shortName": "walking",
     "tags": [
       "wandelend",
-      "amble",
+      "kuieren",
       "wandeling",
       "man die loopt",
       "voetganger",
@@ -6486,7 +6499,7 @@
     "shortName": "woman-walking",
     "tags": [
       "wandelende vrouw",
-      "amble",
+      "kuieren",
       "wandeling",
       "voetganger",
       "saunter",
@@ -6623,7 +6636,7 @@
       "persoon met taststok",
       "toegankelijkheid",
       "blind",
-      "riet"
+      "blindenstok"
     ],
     "rank": 0
   },
@@ -6643,7 +6656,7 @@
       "toegankelijkheid",
       "blind",
       "man",
-      "riet",
+      "blindenstok",
       "mannelijk"
     ],
     "rank": 0
@@ -6664,7 +6677,7 @@
       "toegankelijkheid",
       "blind",
       "vrouw",
-      "riet",
+      "blindenstok",
       "vrouwelijke"
     ],
     "rank": 0
@@ -7095,7 +7108,7 @@
     "tags": [
       "golfer",
       "bal",
-      "rijbereik",
+      "bereik",
       "golf",
       "man die golft",
       "persoon golfen",
@@ -7409,10 +7422,10 @@
     "emoji": "🤸",
     "shortName": "person_doing_cartwheel",
     "tags": [
-      "persoon die cartwheel doet",
-      "cartwheel",
+      "persoon die radslag doet",
+      "radslag",
       "gymnastiek",
-      "persoon cartwheeling"
+      "persoon die radslag doet"
     ],
     "rank": 293
   },
@@ -7420,8 +7433,8 @@
     "emoji": "🤸‍♂️",
     "shortName": "man-cartwheeling",
     "tags": [
-      "man cartwheeling",
-      "cartwheel",
+      "man die radslag doet",
+      "radslag",
       "gymnastiek",
       "man",
       "mannelijk"
@@ -7432,8 +7445,8 @@
     "emoji": "🤸‍♀️",
     "shortName": "woman-cartwheeling",
     "tags": [
-      "vrouw aan het cartwheelen",
-      "cartwheel",
+      "vrouw die radslag doet",
+      "radslag",
       "gymnastiek",
       "vrouw",
       "vrouwelijke"
@@ -7634,7 +7647,7 @@
       "dut",
       "nacht",
       "persoon in bed",
-      "Wanneer ik slaap",
+      "slaap",
       "moe",
       "zz",
       "zzz",
@@ -7665,7 +7678,7 @@
       "beste vrienden",
       "bestie",
       "bff",
-      "obligatie",
+      "stel",
       "binding",
       "koppel",
       "dating",
@@ -7745,12 +7758,12 @@
     "emoji": "💏",
     "shortName": "couplekiss",
     "tags": [
-      "couplekiss",
+      "kussend koppel",
       "jubileum",
       "babe",
       "bae",
       "koppel",
-      "De datum",
+      "date",
       "dating",
       "Hartje",
       "kus",
@@ -7790,7 +7803,7 @@
       "babe",
       "bae",
       "koppel",
-      "De datum",
+      "date",
       "dating",
       "homo",
       "Hartje",
@@ -7813,7 +7826,7 @@
       "bae",
       "biseksueel",
       "koppel",
-      "De datum",
+      "date",
       "dating",
       "homo",
       "glbt",
@@ -8380,11 +8393,21 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "vingerafdruk",
+      "vinger",
+      "vingerafdruk"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
       "apengezicht",
-      "Dieren",
+      "dieren",
       "banaan",
       "nieuwsgierige george",
       "gezicht",
@@ -8397,7 +8420,7 @@
     "shortName": "monkey",
     "tags": [
       "aap",
-      "Dieren",
+      "dieren",
       "banaan"
     ],
     "rank": 358
@@ -8407,7 +8430,7 @@
     "shortName": "gorilla",
     "tags": [
       "gorilla",
-      "Dieren"
+      "dieren"
     ],
     "rank": 412
   },
@@ -8416,7 +8439,7 @@
     "shortName": "orangutan",
     "tags": [
       "orang-oetan",
-      "Dieren",
+      "dieren",
       "aap",
       "aap"
     ],
@@ -8427,8 +8450,8 @@
     "shortName": "dog",
     "tags": [
       "hond",
-      "adorbs",
-      "Dieren",
+      "schattig",
+      "dieren",
       "hondengezicht",
       "gezicht",
       "huisdier",
@@ -8442,7 +8465,7 @@
     "shortName": "dog2",
     "tags": [
       "hond2",
-      "Dieren",
+      "dieren",
       "dieren",
       "hond",
       "honden",
@@ -8459,7 +8482,7 @@
       "toegankelijkheid",
       "blind",
       "gids",
-      "bijstand",
+      "hulp",
       "hond",
       "service"
     ],
@@ -8471,7 +8494,7 @@
     "tags": [
       "hulphond",
       "toegankelijkheid",
-      "bijstand",
+      "hulp",
       "hond",
       "service"
     ],
@@ -8482,7 +8505,7 @@
     "shortName": "poodle",
     "tags": [
       "poedel",
-      "Dieren",
+      "dieren",
       "hond",
       "pluizig"
     ],
@@ -8493,7 +8516,7 @@
     "shortName": "wolf",
     "tags": [
       "wolf",
-      "Dieren",
+      "dieren",
       "gezicht",
       "wolvengezicht"
     ],
@@ -8504,7 +8527,7 @@
     "shortName": "fox_face",
     "tags": [
       "vossengezicht",
-      "Dieren",
+      "dieren",
       "gezicht",
       "vos"
     ],
@@ -8515,7 +8538,7 @@
     "shortName": "raccoon",
     "tags": [
       "wasbeer",
-      "Dieren",
+      "dieren",
       "nieuwsgierig",
       "sluw"
     ],
@@ -8526,7 +8549,7 @@
     "shortName": "cat",
     "tags": [
       "kat",
-      "Dieren",
+      "dieren",
       "kattengezicht",
       "gezicht",
       "kitten",
@@ -8540,7 +8563,7 @@
     "shortName": "cat2",
     "tags": [
       "cat2",
-      "Dieren",
+      "dieren",
       "dieren",
       "kat",
       "katten",
@@ -8555,7 +8578,7 @@
     "shortName": "black_cat",
     "tags": [
       "zwarte kat",
-      "Dieren",
+      "dieren",
       "zwart",
       "kat",
       "katachtige",
@@ -8573,7 +8596,7 @@
     "tags": [
       "leeuwengezicht",
       "alfa",
-      "Dieren",
+      "dieren",
       "gezicht",
       "leo",
       "leeuw",
@@ -8592,7 +8615,7 @@
     "shortName": "tiger",
     "tags": [
       "tijger",
-      "Dieren",
+      "dieren",
       "grote kat",
       "gezicht",
       "roofdier",
@@ -8605,7 +8628,7 @@
     "shortName": "tiger2",
     "tags": [
       "tijger2",
-      "Dieren",
+      "dieren",
       "dieren",
       "grote kat",
       "roofdier",
@@ -8619,7 +8642,7 @@
     "shortName": "leopard",
     "tags": [
       "luipaard",
-      "Dieren",
+      "dieren",
       "dieren",
       "grote kat",
       "roofdier",
@@ -8635,7 +8658,7 @@
     "shortName": "horse",
     "tags": [
       "paard",
-      "Dieren",
+      "dieren",
       "dressuur",
       "paard",
       "gezicht",
@@ -8651,7 +8674,7 @@
     "tags": [
       "eland",
       "alces",
-      "Dieren",
+      "dieren",
       "gewei",
       "eland",
       "zoogdier"
@@ -8663,7 +8686,7 @@
     "shortName": "donkey",
     "tags": [
       "ezel",
-      "Dieren",
+      "dieren",
       "ezel",
       "hinny",
       "zoogdier",
@@ -8677,7 +8700,7 @@
     "shortName": "racehorse",
     "tags": [
       "renpaard",
-      "Dieren",
+      "dieren",
       "belmont stakes",
       "hippisch",
       "boerderij",
@@ -8713,8 +8736,8 @@
     "emoji": "🦌",
     "shortName": "deer",
     "tags": [
-      "Herten",
-      "Dieren",
+      "hert",
+      "dieren",
       "antilope",
       "eland",
       "eland",
@@ -8727,7 +8750,7 @@
     "shortName": "bison",
     "tags": [
       "bizon",
-      "Dieren",
+      "dieren",
       "buffel",
       "kudde",
       "wisent"
@@ -8739,7 +8762,7 @@
     "shortName": "cow",
     "tags": [
       "koe",
-      "Dieren",
+      "dieren",
       "koeiengezicht",
       "gezicht",
       "boerderij",
@@ -8753,7 +8776,7 @@
     "shortName": "ox",
     "tags": [
       "ox",
-      "Dieren",
+      "dieren",
       "dieren",
       "stier",
       "boerderij",
@@ -8768,7 +8791,7 @@
     "shortName": "water_buffalo",
     "tags": [
       "waterbuffel",
-      "Dieren",
+      "dieren",
       "dieren",
       "buffel",
       "water",
@@ -8781,7 +8804,7 @@
     "shortName": "cow2",
     "tags": [
       "koe2",
-      "Dieren",
+      "dieren",
       "dieren",
       "koe",
       "boerderij",
@@ -8795,7 +8818,7 @@
     "shortName": "pig",
     "tags": [
       "varken",
-      "Dieren",
+      "dieren",
       "spek",
       "gezicht",
       "boerderij",
@@ -8811,7 +8834,7 @@
     "shortName": "pig2",
     "tags": [
       "pig2",
-      "Dieren",
+      "dieren",
       "dieren",
       "spek",
       "boerderij",
@@ -8828,7 +8851,7 @@
     "shortName": "boar",
     "tags": [
       "zwijn",
-      "Dieren",
+      "dieren",
       "game of thrones",
       "varken",
       "piggy"
@@ -8840,7 +8863,7 @@
     "shortName": "pig_nose",
     "tags": [
       "varkensneus",
-      "Dieren",
+      "dieren",
       "gezicht",
       "boerderij",
       "neus",
@@ -8856,9 +8879,9 @@
     "shortName": "ram",
     "tags": [
       "ram",
-      "Dieren",
       "dieren",
-      "Ram",
+      "dieren",
+      "ram",
       "hoorns",
       "schapen",
       "dierenriem",
@@ -8871,7 +8894,7 @@
     "shortName": "sheep",
     "tags": [
       "schapen",
-      "Dieren",
+      "dieren",
       "baa",
       "ooi",
       "boerderij",
@@ -8886,9 +8909,9 @@
     "shortName": "goat",
     "tags": [
       "geit",
-      "Dieren",
       "dieren",
-      "capricorn",
+      "dieren",
+      "steenbok",
       "boerderij",
       "melk",
       "dierenriem"
@@ -8900,7 +8923,7 @@
     "shortName": "dromedary_camel",
     "tags": [
       "dromedariskameel",
-      "Dieren",
+      "dieren",
       "kameel",
       "desrt",
       "dromedaris",
@@ -8915,7 +8938,7 @@
     "shortName": "camel",
     "tags": [
       "kameel",
-      "Dieren",
+      "dieren",
       "bacterie",
       "woestijn",
       "bult",
@@ -8930,7 +8953,7 @@
     "tags": [
       "lama",
       "alpaca",
-      "Dieren",
+      "dieren",
       "guanaco",
       "vicuña",
       "wol"
@@ -8952,7 +8975,7 @@
     "shortName": "elephant",
     "tags": [
       "olifant",
-      "Dieren"
+      "dieren"
     ],
     "rank": 606
   },
@@ -8961,7 +8984,7 @@
     "shortName": "mammoth",
     "tags": [
       "mammoet",
-      "Dieren",
+      "dieren",
       "wolharige mammoet",
       "uitsterven",
       "groot",
@@ -8975,7 +8998,7 @@
     "shortName": "rhinoceros",
     "tags": [
       "neushoorn",
-      "Dieren",
+      "dieren",
       "neushoorn"
     ],
     "rank": 1044
@@ -8985,7 +9008,7 @@
     "shortName": "hippopotamus",
     "tags": [
       "nijlpaard",
-      "Dieren",
+      "dieren",
       "nijlpaard"
     ],
     "rank": 874
@@ -8995,7 +9018,7 @@
     "shortName": "mouse",
     "tags": [
       "muis",
-      "Dieren",
+      "dieren",
       "gezicht",
       "muizengezicht"
     ],
@@ -9006,7 +9029,7 @@
     "shortName": "mouse2",
     "tags": [
       "muis2",
-      "Dieren",
+      "dieren",
       "dieren",
       "muis"
     ],
@@ -9017,7 +9040,7 @@
     "shortName": "rat",
     "tags": [
       "rat",
-      "Dieren"
+      "dieren"
     ],
     "rank": 522
   },
@@ -9026,7 +9049,7 @@
     "shortName": "hamster",
     "tags": [
       "hamster",
-      "Dieren",
+      "dieren",
       "gezicht",
       "hamstergezicht",
       "huisdier",
@@ -9041,7 +9064,7 @@
     "shortName": "rabbit",
     "tags": [
       "konijn",
-      "Dieren",
+      "dieren",
       "konijntje",
       "gezicht",
       "huisdier",
@@ -9054,7 +9077,7 @@
     "shortName": "rabbit2",
     "tags": [
       "konijn2",
-      "Dieren",
+      "dieren",
       "dieren",
       "konijntje",
       "huisdier",
@@ -9078,7 +9101,7 @@
     "shortName": "beaver",
     "tags": [
       "bever",
-      "Dieren",
+      "dieren",
       "tanden",
       "dam"
     ],
@@ -9098,7 +9121,7 @@
     "shortName": "bat",
     "tags": [
       "vleermuis",
-      "Dieren",
+      "dieren",
       "vampier"
     ],
     "rank": 587
@@ -9108,7 +9131,7 @@
     "shortName": "bear",
     "tags": [
       "beer",
-      "Dieren",
+      "dieren",
       "berengezicht",
       "gezicht",
       "grizzly",
@@ -9123,11 +9146,11 @@
     "shortName": "polar_bear",
     "tags": [
       "ijsbeer",
-      "Dieren",
+      "dieren",
       "beer",
       "koud",
       "noordpool",
-      "arctic",
+      "arctisch",
       "Wit"
     ],
     "rank": 0
@@ -9137,7 +9160,7 @@
     "shortName": "koala",
     "tags": [
       "koala",
-      "Dieren",
+      "dieren",
       "australië",
       "beer",
       "down under"
@@ -9149,7 +9172,7 @@
     "shortName": "panda_face",
     "tags": [
       "pandagezicht",
-      "Dieren",
+      "dieren",
       "bamboe",
       "gezicht",
       "panda",
@@ -9191,7 +9214,7 @@
     "shortName": "kangaroo",
     "tags": [
       "kangoeroe",
-      "Dieren",
+      "dieren",
       "australië",
       "joey",
       "spring",
@@ -9204,7 +9227,7 @@
     "shortName": "badger",
     "tags": [
       "das",
-      "Dieren",
+      "dieren",
       "honingdas",
       "pester"
     ],
@@ -9238,7 +9261,7 @@
     "shortName": "chicken",
     "tags": [
       "kip",
-      "Dieren",
+      "dieren",
       "vogel",
       "hen"
     ],
@@ -9249,7 +9272,7 @@
     "shortName": "rooster",
     "tags": [
       "haan",
-      "Dieren",
+      "dieren",
       "dieren",
       "vogels",
       "vogel",
@@ -9263,7 +9286,7 @@
     "shortName": "hatching_chick",
     "tags": [
       "broedend kuiken",
-      "Dieren",
+      "dieren",
       "baby",
       "vogel",
       "kuiken",
@@ -9277,7 +9300,7 @@
     "shortName": "baby_chick",
     "tags": [
       "kuiken",
-      "Dieren",
+      "dieren",
       "baby",
       "vogel",
       "kuiken"
@@ -9289,7 +9312,7 @@
     "shortName": "hatched_chick",
     "tags": [
       "uitgekomen kuiken",
-      "Dieren",
+      "dieren",
       "baby",
       "kuiken",
       "voorkant baby kuiken",
@@ -9304,7 +9327,7 @@
     "shortName": "bird",
     "tags": [
       "vogel",
-      "Dieren",
+      "dieren",
       "ornithologie"
     ],
     "rank": 396
@@ -9314,7 +9337,7 @@
     "shortName": "penguin",
     "tags": [
       "pinguïn",
-      "Dieren",
+      "dieren",
       "antartica",
       "vogel"
     ],
@@ -9337,7 +9360,7 @@
     "shortName": "eagle",
     "tags": [
       "adelaar",
-      "Dieren",
+      "dieren",
       "vogel"
     ],
     "rank": 322
@@ -9347,7 +9370,7 @@
     "shortName": "duck",
     "tags": [
       "eend",
-      "Dieren",
+      "dieren",
       "vogel"
     ],
     "rank": 324
@@ -9357,9 +9380,9 @@
     "shortName": "swan",
     "tags": [
       "zwaan",
-      "Dieren",
+      "dieren",
       "vogel",
-      "cygnet",
+      "zwaan",
       "lelijk eendje"
     ],
     "rank": 922
@@ -9369,7 +9392,7 @@
     "shortName": "owl",
     "tags": [
       "uil",
-      "Dieren",
+      "dieren",
       "vogel",
       "wijs"
     ],
@@ -9380,7 +9403,7 @@
     "shortName": "dodo",
     "tags": [
       "dodo",
-      "Dieren",
+      "dieren",
       "vogel",
       "uitsterven",
       "groot",
@@ -9415,9 +9438,9 @@
     "shortName": "peacock",
     "tags": [
       "pauw",
-      "Dieren",
+      "dieren",
       "vogel",
-      "kleurrijke",
+      "kleurrijk",
       "ostentatief",
       "peahen",
       "mooie vogel",
@@ -9430,7 +9453,7 @@
     "shortName": "parrot",
     "tags": [
       "papegaai",
-      "Dieren",
+      "dieren",
       "vogel",
       "piraat",
       "praat"
@@ -9443,7 +9466,7 @@
     "tags": [
       "vleugel",
       "engelachtig",
-      "opklimmen",
+      "vleugel",
       "luchtvaart",
       "vlieg",
       "vliegende",
@@ -9458,12 +9481,12 @@
     "shortName": "black_bird",
     "tags": [
       "zwarte vogel",
-      "Dieren",
+      "dieren",
       "snavel",
       "vogel",
       "zwart",
-      "caw",
-      "corvid",
+      "kraai",
+      "kraai",
       "kraai",
       "raaf",
       "rook"
@@ -9475,7 +9498,7 @@
     "shortName": "goose",
     "tags": [
       "gans",
-      "Dieren",
+      "dieren",
       "vogel",
       "eend",
       "kudde",
@@ -9503,7 +9526,7 @@
     "shortName": "frog",
     "tags": [
       "kikker",
-      "Dieren",
+      "dieren",
       "gezicht",
       "kikker gezicht",
       "prinses"
@@ -9515,9 +9538,9 @@
     "shortName": "crocodile",
     "tags": [
       "krokodil",
-      "Dieren",
       "dieren",
-      "krokodil dundee",
+      "dieren",
+      "crocodile dundee",
       "florida",
       "dierentuin"
     ],
@@ -9528,7 +9551,7 @@
     "shortName": "turtle",
     "tags": [
       "schildpad",
-      "Dieren",
+      "dieren",
       "Schildpad",
       "schildpad",
       "schildpadden"
@@ -9540,7 +9563,7 @@
     "shortName": "lizard",
     "tags": [
       "hagedis",
-      "Dieren",
+      "dieren",
       "reptiel"
     ],
     "rank": 601
@@ -9550,7 +9573,7 @@
     "shortName": "snake",
     "tags": [
       "slang",
-      "Dieren",
+      "dieren",
       "drager",
       "ophiuchus",
       "serpent",
@@ -9563,7 +9586,7 @@
     "shortName": "dragon_face",
     "tags": [
       "drakengezicht",
-      "Dieren",
+      "dieren",
       "draak",
       "gezicht",
       "sprookje",
@@ -9576,7 +9599,7 @@
     "shortName": "dragon",
     "tags": [
       "draak",
-      "Dieren",
+      "dieren",
       "chinees",
       "sprookje",
       "sprookje",
@@ -9612,7 +9635,7 @@
     "shortName": "whale",
     "tags": [
       "walvis",
-      "Dieren",
+      "dieren",
       "strand",
       "gezicht",
       "oceaan",
@@ -9626,7 +9649,7 @@
     "shortName": "whale2",
     "tags": [
       "walvis2",
-      "Dieren",
+      "dieren",
       "strand",
       "oceaan",
       "walvis"
@@ -9638,7 +9661,7 @@
     "shortName": "dolphin",
     "tags": [
       "dolfijn",
-      "Dieren",
+      "dieren",
       "strand",
       "flipper",
       "oceaan"
@@ -9650,7 +9673,7 @@
     "shortName": "seal",
     "tags": [
       "afdichting",
-      "Dieren",
+      "dieren",
       "oceaan",
       "zeeleeuw"
     ],
@@ -9661,7 +9684,7 @@
     "shortName": "fish",
     "tags": [
       "vis",
-      "Dieren",
+      "dieren",
       "diner",
       "vissen",
       "vissen",
@@ -9675,7 +9698,7 @@
     "shortName": "tropical_fish",
     "tags": [
       "tropische vissen",
-      "Dieren",
+      "dieren",
       "vis",
       "vissen",
       "tropisch"
@@ -9686,8 +9709,8 @@
     "emoji": "🐡",
     "shortName": "blowfish",
     "tags": [
-      "blowfish",
-      "Dieren",
+      "kogelvis",
+      "dieren",
       "vis"
     ],
     "rank": 856
@@ -9697,7 +9720,7 @@
     "shortName": "shark",
     "tags": [
       "haai",
-      "Dieren",
+      "dieren",
       "vis"
     ],
     "rank": 527
@@ -9707,7 +9730,7 @@
     "shortName": "octopus",
     "tags": [
       "octopus",
-      "Dieren",
+      "dieren",
       "schepsel",
       "oceaan"
     ],
@@ -9718,9 +9741,9 @@
     "shortName": "shell",
     "tags": [
       "schelp",
-      "Dieren",
+      "dieren",
       "strand",
-      "conch",
+      "schelp",
       "schelp",
       "spiraal",
       "spiraalvormige schelp"
@@ -9743,7 +9766,7 @@
     "shortName": "jellyfish",
     "tags": [
       "kwal",
-      "Dieren",
+      "dieren",
       "aquarium",
       "gelei",
       "marine",
@@ -9757,11 +9780,66 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "krab",
+      "kanker",
+      "dierenriem"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "kreeft",
+      "dieren",
+      "bisque",
+      "klauwen",
+      "rode kreeft",
+      "zeevruchten"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "garnalen",
+      "Voedsel",
+      "schelpdieren",
+      "klein"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "inktvis",
+      "dieren",
+      "Voedsel",
+      "molusc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "oester",
+      "duiken",
+      "parel"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
       "slak",
-      "Dieren",
+      "dieren",
       "escargot",
       "tuin",
       "Natuur",
@@ -9784,7 +9862,7 @@
     "shortName": "bug",
     "tags": [
       "bug",
-      "Dieren",
+      "dieren",
       "tuin",
       "insect"
     ],
@@ -9795,7 +9873,7 @@
     "shortName": "ant",
     "tags": [
       "mier",
-      "Dieren",
+      "dieren",
       "tuin",
       "insect"
     ],
@@ -9806,7 +9884,7 @@
     "shortName": "bee",
     "tags": [
       "bij",
-      "Dieren",
+      "dieren",
       "hommel",
       "honing",
       "honingbij",
@@ -9821,7 +9899,7 @@
     "shortName": "beetle",
     "tags": [
       "kever",
-      "Dieren",
+      "dieren",
       "bug",
       "insect"
     ],
@@ -9832,7 +9910,7 @@
     "shortName": "ladybug",
     "tags": [
       "lieveheersbeestje",
-      "Dieren",
+      "dieren",
       "kever",
       "tuin",
       "insect",
@@ -9859,7 +9937,7 @@
     "shortName": "cockroach",
     "tags": [
       "kakkerlak",
-      "Dieren",
+      "dieren",
       "bruto",
       "insect",
       "ongedierte",
@@ -9917,8 +9995,8 @@
     "shortName": "fly",
     "tags": [
       "vliegen",
-      "Dieren",
-      "blauwe fles",
+      "dieren",
+      "blauwe vlieg",
       "insect",
       "ziekte",
       "made",
@@ -9932,9 +10010,9 @@
     "shortName": "worm",
     "tags": [
       "worm",
-      "Dieren",
+      "dieren",
       "regenworm",
-      "ringvormige",
+      "ringworm",
       "parasiet"
     ],
     "rank": 0
@@ -9958,7 +10036,7 @@
       "boeket",
       "jubileum",
       "verjaardag",
-      "De datum",
+      "date",
       "bloem",
       "liefde",
       "plant",
@@ -10119,7 +10197,7 @@
     "shortName": "potted_plant",
     "tags": [
       "potplant",
-      "decor",
+      "decoratie",
       "plant",
       "pot",
       "saaie",
@@ -10147,8 +10225,8 @@
     "emoji": "🌳",
     "shortName": "deciduous_tree",
     "tags": [
-      "bladverliezende boom",
-      "bladverliezend",
+      "loofboom",
+      "bladeren",
       "bos",
       "Groen",
       "habitat",
@@ -10276,7 +10354,7 @@
     "shortName": "empty_nest",
     "tags": [
       "leeg nest",
-      "vestiging",
+      "tak",
       "thuis",
       "nest"
     ],
@@ -10288,7 +10366,7 @@
     "tags": [
       "nest met eieren",
       "vogel",
-      "vestiging",
+      "tak",
       "ei",
       "eieren",
       "nest"
@@ -10305,6 +10383,17 @@
       "paddenstoel"
     ],
     "rank": 365
+  },
+  {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "kale boom",
+      "tak",
+      "boom",
+      "boomstam"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🍇",
@@ -10475,7 +10564,7 @@
       "bosbessen",
       "bessen",
       "bes",
-      "bosbessen",
+      "bosbes",
       "Voedsel",
       "fruit"
     ],
@@ -10668,7 +10757,7 @@
     "tags": [
       "bonen",
       "Voedsel",
-      "Kleine bestanden"
+      "klein"
     ],
     "rank": 0
   },
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "bruine champignon"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "knolgroente",
+      "radijs",
+      "wortel",
+      "groente"
     ],
     "rank": 0
   },
@@ -10889,7 +10989,7 @@
     "tags": [
       "hamburger",
       "hamburger",
-      "eet",
+      "eten",
       "fast food",
       "Voedsel",
       "hongerige",
@@ -11337,61 +11437,6 @@
     "rank": 1058
   },
   {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "krab",
-      "kanker",
-      "dierenriem"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "kreeft",
-      "Dieren",
-      "bisque",
-      "klauwen",
-      "rode kreeft",
-      "zeevruchten"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "garnalen",
-      "Voedsel",
-      "schelpdieren",
-      "Kleine bestanden"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "inktvis",
-      "Dieren",
-      "Voedsel",
-      "molusc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "oester",
-      "duiken",
-      "parel"
-    ],
-    "rank": 0
-  },
-  {
     "emoji": "🍦",
     "shortName": "icecream",
     "tags": [
@@ -11536,7 +11581,7 @@
     "shortName": "candy",
     "tags": [
       "snoep",
-      "holtes",
+      "snoep",
       "dessert",
       "halloween",
       "restaurant",
@@ -11625,7 +11670,7 @@
     "tags": [
       "koffie",
       "drank",
-      "café",
+      "koffie",
       "cafeïne",
       "drink",
       "heet",
@@ -11782,7 +11827,7 @@
       "bar",
       "bier",
       "drank",
-      "bodems omhoog",
+      "proost",
       "proost",
       "klink",
       "rinkelende bierpullen",
@@ -11914,7 +11959,7 @@
       "mes-vork plaat",
       "koken",
       "diner",
-      "eet",
+      "eten",
       "vork",
       "vork en mes met bord",
       "mes",
@@ -11930,9 +11975,9 @@
       "ontbijt",
       "breaky",
       "koken",
-      "heerlijke",
+      "heerlijk",
       "diner",
-      "eet",
+      "eten",
       "voer",
       "Voedsel",
       "vork",
@@ -11951,7 +11996,7 @@
     "shortName": "spoon",
     "tags": [
       "lepel",
-      "eet",
+      "eten",
       "servies"
     ],
     "rank": 864
@@ -12215,7 +12260,7 @@
       "boulder",
       "steen",
       "stoere",
-      "Dik",
+      "dik",
       "Effen"
     ],
     "rank": 0
@@ -12309,7 +12354,7 @@
       "kantoor",
       "gebouw",
       "Woonplaats",
-      "kubusvormige",
+      "kantoorgebouw",
       "baan",
       "kantoorgebouw"
     ],
@@ -12385,7 +12430,7 @@
     "tags": [
       "gemakswinkel",
       "24",
-      "24 uur.",
+      "24 uur",
       "gebouw",
       "gemak",
       "winkel"
@@ -12486,7 +12531,7 @@
       "zegen",
       "kapel",
       "Christian",
-      "cross",
+      "kruis",
       "religie"
     ],
     "rank": 784
@@ -12711,7 +12756,7 @@
       "achtbaan",
       "pretpark",
       "amusementspark",
-      "onderzetter",
+      "achtbaan",
       "roller"
     ],
     "rank": 932
@@ -12775,7 +12820,7 @@
     "emoji": "🚄",
     "shortName": "bullettrain_side",
     "tags": [
-      "bullettrain kant",
+      "hogesnelheidstrein",
       "amtrak",
       "hogesnelheidstrein",
       "spoorweg",
@@ -12789,7 +12834,7 @@
     "emoji": "🚅",
     "shortName": "bullettrain_front",
     "tags": [
-      "bullettrain voorzijde",
+      "hogesnelheidstrein",
       "amtrak",
       "kogel",
       "hogesnelheidstrein met kogelneus",
@@ -12829,7 +12874,7 @@
     "tags": [
       "sneltram",
       "aangekomen",
-      "bart",
+      "ov",
       "monorail",
       "spoorweg"
     ],
@@ -12840,7 +12885,7 @@
     "shortName": "station",
     "tags": [
       "station",
-      "bart",
+      "ov",
       "spoorweg",
       "trein"
     ],
@@ -12851,7 +12896,7 @@
     "shortName": "tram",
     "tags": [
       "tram",
-      "bart",
+      "ov",
       "trolleybus"
     ],
     "rank": 1283
@@ -12987,7 +13032,7 @@
     "shortName": "taxi",
     "tags": [
       "taxi",
-      "cabine",
+      "taxi",
       "taxichauffeur",
       "auto",
       "aandrijving",
@@ -13002,7 +13047,7 @@
     "shortName": "oncoming_taxi",
     "tags": [
       "tegemoetkomende taxi",
-      "cabine",
+      "taxi",
       "taxichauffeur",
       "auto's",
       "reed",
@@ -13021,7 +13066,7 @@
     "tags": [
       "auto",
       "auto",
-      "Terwijl ik aan het rijden ben",
+      "aan het rijden ",
       "voertuig",
       "rode auto"
     ],
@@ -13115,7 +13160,7 @@
       "racewagen",
       "auto",
       "racing",
-      "Maximaliseren",
+      "maximaliseren",
       "race",
       "racewagen"
     ],
@@ -13166,7 +13211,7 @@
     "emoji": "🛺",
     "shortName": "auto_rickshaw",
     "tags": [
-      "autoriksja",
+      "riksja",
       "tuk tuk"
     ],
     "rank": 0
@@ -13177,8 +13222,8 @@
     "tags": [
       "fiets",
       "fiets",
-      "fietsbende",
-      "cyclus",
+      "fietsclub",
+      "fiets",
       "fietsen",
       "fietser",
       "rijden",
@@ -13213,7 +13258,7 @@
     "shortName": "roller_skate",
     "tags": [
       "rolschaats",
-      "bladen",
+      "skeeler",
       "rolschaatsen",
       "schaats",
       "sport",
@@ -13257,7 +13302,7 @@
     "shortName": "oil_drum",
     "tags": [
       "olievat",
-      "drum",
+      "vat",
       "olie"
     ],
     "rank": 1117
@@ -13295,7 +13340,7 @@
     "tags": [
       "roterend licht",
       "alarm",
-      "Melding",
+      "melding",
       "baken",
       "auto",
       "noodgevallen",
@@ -13573,7 +13618,7 @@
     "shortName": "aerial_tramway",
     "tags": [
       "luchttram",
-      "luchtfoto",
+      "lucht",
       "kabel",
       "auto",
       "gondel",
@@ -14106,7 +14151,7 @@
     "shortName": "new_moon",
     "tags": [
       "nieuwe maan",
-      "Donker",
+      "donker",
       "maan",
       "ruimte"
     ],
@@ -14567,7 +14612,7 @@
     "shortName": "umbrella_with_rain_drops",
     "tags": [
       "paraplu met regendruppels",
-      "drop",
+      "druppels",
       "regen",
       "paraplu",
       "weer",
@@ -14668,11 +14713,11 @@
       "druppel",
       "koud",
       "strip",
-      "drop",
+      "druppel",
       "Natuur",
       "triest",
       "zweet",
-      "scheur",
+      "traan",
       "water",
       "weer"
     ],
@@ -14870,7 +14915,7 @@
     "tags": [
       "windgong",
       "bel",
-      "klokkenspel",
+      "windorgel",
       "wind",
       "feest"
     ],
@@ -14944,7 +14989,7 @@
     "shortName": "admission_tickets",
     "tags": [
       "toegangsbewijzen",
-      "toelating",
+      "toegang",
       "ticket"
     ],
     "rank": 877
@@ -14954,7 +14999,7 @@
     "shortName": "ticket",
     "tags": [
       "ticket",
-      "toelating",
+      "toegang",
       "stub"
     ],
     "rank": 782
@@ -15113,7 +15158,7 @@
     "shortName": "football",
     "tags": [
       "voetbal",
-      "amerikaanse",
+      "amerikaans",
       "amerikaans voetbal",
       "bal",
       "sport",
@@ -15239,7 +15284,7 @@
     "emoji": "🏸",
     "shortName": "badminton_racquet_and_shuttlecock",
     "tags": [
-      "badmintonracket en shuttlecock",
+      "badmintonracket en shuttle",
       "badminton",
       "birdie",
       "spel",
@@ -15382,7 +15427,7 @@
       "dart",
       "stier",
       "bullseye",
-      "directe klap",
+      "direct raak",
       "entertainment",
       "spel",
       "raak",
@@ -15514,7 +15559,7 @@
     "tags": [
       "dobbelsteen",
       "dobbelstenen",
-      "die",
+      "dobbel",
       "entertainment",
       "spel"
     ],
@@ -15599,7 +15644,7 @@
       "spel",
       "spade",
       "schoppenpak",
-      "kaartpak"
+      "kaartsymbool"
     ],
     "rank": 574
   },
@@ -15613,7 +15658,7 @@
       "spel",
       "Hartje",
       "hartenpak",
-      "kaartpak"
+      "kaartsymbool"
     ],
     "rank": 19
   },
@@ -15626,7 +15671,7 @@
       "diamant",
       "diamantpak",
       "spel",
-      "kaartpak"
+      "kaartsymbool"
     ],
     "rank": 513
   },
@@ -15639,7 +15684,7 @@
       "club",
       "knuppelpak",
       "spel",
-      "kaartpak"
+      "kaartsymbool"
     ],
     "rank": 681
   },
@@ -15730,9 +15775,9 @@
     "tags": [
       "art",
       "kunstenaarspalet",
-      "artsy",
-      "arty",
-      "kleurrijke",
+      "palet",
+      "kunst",
+      "kleurrijk",
       "creatief",
       "entertainment",
       "museum",
@@ -15812,7 +15857,7 @@
     "shortName": "dark_sunglasses",
     "tags": [
       "donkere zonnebril",
-      "Donker",
+      "donker",
       "oog",
       "brillen",
       "bril",
@@ -15877,7 +15922,7 @@
     "shortName": "shirt",
     "tags": [
       "shirt",
-      "Blauw",
+      "blauw",
       "casual",
       "kleding",
       "kleding",
@@ -15895,7 +15940,7 @@
     "shortName": "jeans",
     "tags": [
       "jeans",
-      "Blauw",
+      "blauw",
       "casual",
       "kleding",
       "kleding",
@@ -15913,7 +15958,7 @@
     "shortName": "scarf",
     "tags": [
       "sjaal",
-      "zich bundelen",
+      "das",
       "koud",
       "hals"
     ],
@@ -15935,7 +15980,7 @@
     "tags": [
       "jas",
       "brr",
-      "zich bundelen",
+      "judo",
       "koud",
       "jas"
     ],
@@ -16054,7 +16099,7 @@
     "shortName": "folding_hand_fan",
     "tags": [
       "opvouwbare handventilator",
-      "clack",
+      "waaier",
       "klap",
       "afkoelen",
       "koeling",
@@ -16204,7 +16249,7 @@
       "backpacken",
       "boot",
       "bruine schoen",
-      "camping",
+      "hiken",
       "wandelen",
       "buiten",
       "schoen"
@@ -16367,7 +16412,7 @@
     "emoji": "🧢",
     "shortName": "billed_cap",
     "tags": [
-      "Gefactureerd maximum",
+      "pet",
       "baseball cap",
       "gebogen hoed",
       "pet",
@@ -16396,9 +16441,9 @@
     "tags": [
       "helm met wit kruis",
       "hulp",
-      "cross",
+      "kruis",
       "gezicht",
-      "hoed",
+      "helm",
       "helm",
       "reddingswerkershelm",
       "redding"
@@ -16425,7 +16470,7 @@
     "tags": [
       "lippenstift",
       "cosmetica",
-      "De datum",
+      "date",
       "make-up"
     ],
     "rank": 401
@@ -16466,12 +16511,13 @@
     "emoji": "🔇",
     "shortName": "mute",
     "tags": [
-      "Meldingen dempen",
+      "dempen",
       "gedempte luidspreker",
       "rustig",
       "Stil",
-      "Berichtgeluid",
+      "geluid",
       "Luidspreker",
+      "audio",
       "volume"
     ],
     "rank": 1097
@@ -16482,8 +16528,9 @@
     "tags": [
       "Luidspreker",
       "zacht",
-      "Berichtgeluid",
-      "luidspreker laag volume"
+      "geluid",
+      "luidspreker laag volume",
+      "audio"
     ],
     "rank": 1063
   },
@@ -16491,9 +16538,10 @@
     "emoji": "🔉",
     "shortName": "sound",
     "tags": [
-      "Berichtgeluid",
-      "Middelgroot",
-      "luidspreker medium volume"
+      "geluid",
+      "speaker",
+      "luidspreker medium volume",
+      "audio"
     ],
     "rank": 1030
   },
@@ -16505,8 +16553,9 @@
       "Hoog",
       "luid",
       "muziek",
-      "Berichtgeluid",
-      "luidspreker hoog volume"
+      "geluid",
+      "luidspreker hoog volume",
+      "audio"
     ],
     "rank": 321
   },
@@ -16519,7 +16568,7 @@
       "luid",
       "openbaar adres",
       "openbaar adres",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 183
   },
@@ -16530,7 +16579,7 @@
       "mega",
       "juichend",
       "megafoon",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 177
   },
@@ -16550,9 +16599,9 @@
     "shortName": "bell",
     "tags": [
       "bel",
-      "break",
+      "pauze",
       "kerk",
-      "Berichtgeluid",
+      "geluid",
       "Bellen"
     ],
     "rank": 304
@@ -16565,13 +16614,13 @@
       "bel",
       "bel met schuine streep",
       "verboden",
-      "Meldingen dempen",
+      "dempen",
       "Nee",
       "niet",
       "verboden",
       "rustig",
       "Stil",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 1093
   },
@@ -16593,7 +16642,7 @@
       "muzikale noot",
       "muziek",
       "Opmerking",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 162
   },
@@ -16605,7 +16654,7 @@
       "muziek",
       "muzieknoten",
       "Opmerking",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 80
   },
@@ -16628,7 +16677,8 @@
       "niveauregelaar",
       "niveau",
       "muziek",
-      "schuifregelaar"
+      "schuifregelaar",
+      "volume"
     ],
     "rank": 1075
   },
@@ -16652,7 +16702,7 @@
       "mic",
       "muziek",
       "zing",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 219
   },
@@ -16663,7 +16713,7 @@
       "hoofdtelefoon",
       "oordopjes",
       "hoofdtelefoon",
-      "Berichtgeluid"
+      "geluid"
     ],
     "rank": 258
   },
@@ -16816,6 +16866,16 @@
     "rank": 0
   },
   {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harp",
+      "instrument",
+      "muziek"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "📱",
     "shortName": "iphone",
     "tags": [
@@ -16907,7 +16967,7 @@
     "tags": [
       "lage batterij",
       "batterij",
-      "uitgelekt",
+      "leeg",
       "laag vermogen",
       "leeg"
     ],
@@ -16943,7 +17003,7 @@
     "tags": [
       "desktop computer",
       "computer",
-      "Desktop",
+      "desktop",
       "monitor",
       "scherm"
     ],
@@ -17086,7 +17146,7 @@
       "film",
       "projector",
       "Video",
-      "Blauw",
+      "blauw",
       "camera"
     ],
     "rank": 814
@@ -17097,7 +17157,7 @@
     "tags": [
       "klapper",
       "actie",
-      "klepelbord",
+      "filmklapper",
       "film"
     ],
     "rank": 363
@@ -17183,7 +17243,7 @@
     "shortName": "mag_right",
     "tags": [
       "mag rechts",
-      "Contactpersoon",
+      "contact",
       "glas",
       "lab",
       "vergrotende",
@@ -17261,7 +17321,7 @@
     "tags": [
       "notitieboekje met decoratieve kaft",
       "boek",
-      "cover",
+      "boek",
       "versierd",
       "onderwijs",
       "notebook",
@@ -17320,7 +17380,7 @@
     "shortName": "blue_book",
     "tags": [
       "blauw boek",
-      "Blauw",
+      "blauw",
       "boek",
       "onderwijs",
       "fantasie",
@@ -17386,7 +17446,7 @@
     "tags": [
       "pagina met curl",
       "krul",
-      "Document",
+      "document",
       "pagina"
     ],
     "rank": 1019
@@ -17405,7 +17465,7 @@
     "shortName": "page_facing_up",
     "tags": [
       "pagina naar boven",
-      "Document",
+      "document",
       "pagina"
     ],
     "rank": 612
@@ -17437,7 +17497,7 @@
     "emoji": "📑",
     "shortName": "bookmark_tabs",
     "tags": [
-      "Bladwijzer tabs",
+      "bladwijzer tabbladen",
       "bladwijzer",
       "mark",
       "marker",
@@ -17511,7 +17571,7 @@
       "yen",
       "bank",
       "bankbiljet",
-      "bill",
+      "rekening",
       "Valuta",
       "geld",
       "Opmerking",
@@ -17526,7 +17586,7 @@
       "dollar",
       "bank",
       "bankbiljet",
-      "bill",
+      "rekening",
       "Valuta",
       "dollarbiljet",
       "geld",
@@ -17542,7 +17602,7 @@
       "100",
       "bank",
       "bankbiljet",
-      "bill",
+      "rekening",
       "Valuta",
       "eurobankbiljet",
       "geld",
@@ -17558,7 +17618,7 @@
       "pond",
       "bank",
       "bankbiljet",
-      "bill",
+      "rekening",
       "miljard",
       "contant geld",
       "Valuta",
@@ -17576,7 +17636,7 @@
       "geld met vleugels",
       "bank",
       "bankbiljet",
-      "bill",
+      "rekening",
       "miljard",
       "contant geld",
       "dollar",
@@ -17593,7 +17653,7 @@
     "emoji": "💳",
     "shortName": "credit_card",
     "tags": [
-      "kredietkaart",
+      "creditcard",
       "bank",
       "kaart",
       "contant geld",
@@ -17622,7 +17682,7 @@
     "emoji": "💹",
     "shortName": "chart",
     "tags": [
-      "kaart",
+      "grafiek",
       "bank",
       "grafiek stijgt met yen",
       "Valuta",
@@ -17665,7 +17725,7 @@
     "shortName": "incoming_envelope",
     "tags": [
       "inkomende enveloppe",
-      "het leveren van",
+      "leveren",
       "e-mail",
       "e-mail",
       "envelop",
@@ -17809,7 +17869,7 @@
     "shortName": "ballot_box_with_ballot",
     "tags": [
       "stembus met stembiljet",
-      "Stembiljet",
+      "stembiljet",
       "doos"
     ],
     "rank": 962
@@ -17903,7 +17963,7 @@
     "shortName": "file_folder",
     "tags": [
       "bestandsmap",
-      "Bestand",
+      "bestand",
       "Opslaglocatie"
     ],
     "rank": 1141
@@ -17913,7 +17973,7 @@
     "shortName": "open_file_folder",
     "tags": [
       "open bestandsmap",
-      "Bestand",
+      "bestand",
       "Opslaglocatie",
       "open"
     ],
@@ -17934,7 +17994,7 @@
     "emoji": "📅",
     "shortName": "date",
     "tags": [
-      "De datum",
+      "datum",
       "kalender"
     ],
     "rank": 710
@@ -17989,7 +18049,7 @@
     "shortName": "chart_with_upwards_trend",
     "tags": [
       "grafiek met opwaartse trend",
-      "kaart",
+      "grafiek",
       "grafiek stijgend",
       "Gegevens",
       "grafiek",
@@ -18005,7 +18065,7 @@
     "shortName": "chart_with_downwards_trend",
     "tags": [
       "grafiek met neerwaartse trend",
-      "kaart",
+      "grafiek",
       "grafiek afnemend",
       "Gegevens",
       "naar beneden",
@@ -18022,7 +18082,7 @@
     "tags": [
       "staafdiagram",
       "bar",
-      "kaart",
+      "grafiek",
       "Gegevens",
       "grafiek"
     ],
@@ -18124,7 +18184,7 @@
       "kaartendoos",
       "doos",
       "kaart",
-      "Bestand"
+      "bestand"
     ],
     "rank": 1394
   },
@@ -18134,7 +18194,7 @@
     "tags": [
       "dossierkast",
       "kast",
-      "Bestand",
+      "bestand",
       "archivering"
     ],
     "rank": 1356
@@ -18426,9 +18486,9 @@
     "emoji": "🗜️",
     "shortName": "compression",
     "tags": [
-      "compressie",
+      "samenpersen",
       "klem",
-      "comprimeer",
+      "drukken",
       "gereedschap",
       "vice"
     ],
@@ -18476,7 +18536,7 @@
     "shortName": "broken_chain",
     "tags": [
       "gebroken ketting",
-      "break",
+      "breken",
       "link",
       "snap"
     ],
@@ -18497,7 +18557,7 @@
     "tags": [
       "haak",
       "vangst",
-      "oplichter",
+      "haak",
       "curve",
       "verstrikken",
       "verkoopargument"
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "schop",
+      "graven"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -18558,7 +18627,7 @@
     "shortName": "test_tube",
     "tags": [
       "reageerbuis",
-      "drogist",
+      "scheikundige",
       "chemie",
       "experiment",
       "lab",
@@ -18609,7 +18678,7 @@
     "shortName": "telescope",
     "tags": [
       "telescoop",
-      "Contactpersoon",
+      "contact",
       "e.t.",
       "wetenschap",
       "gereedschap"
@@ -18623,7 +18692,7 @@
       "satellietantenne",
       "vreemdelingen",
       "antenne",
-      "Contactpersoon",
+      "contact",
       "schotel",
       "satelliet",
       "wetenschap"
@@ -18652,7 +18721,7 @@
     "shortName": "drop_of_blood",
     "tags": [
       "druppel bloed",
-      "ontlucht",
+      "bloed",
       "letsel",
       "bloeddonatie",
       "geneeskunde",
@@ -18772,7 +18841,7 @@
     "tags": [
       "bed",
       "hotel",
-      "Wanneer ik slaap"
+      "slaap"
     ],
     "rank": 598
   },
@@ -19061,7 +19130,7 @@
     "tags": [
       "nazar amulet",
       "kraal",
-      "Blauw",
+      "blauw",
       "charme",
       "boos oog",
       "nazar",
@@ -19115,7 +19184,7 @@
     "shortName": "identification_card",
     "tags": [
       "identiteitskaart",
-      "Document",
+      "document",
       "id",
       "identificatie",
       "licentie"
@@ -19155,7 +19224,10 @@
       "drinkbaar water",
       "drinken",
       "drinkbaar",
-      "water"
+      "water",
+      "kraan",
+      "wastafel",
+      "tap"
     ],
     "rank": 1038
   },
@@ -19212,7 +19284,7 @@
     "tags": [
       "baby symbool",
       "baby",
-      "veranderen"
+      "verschonen"
     ],
     "rank": 1109
   },
@@ -19221,7 +19293,7 @@
     "shortName": "wc",
     "tags": [
       "wc",
-      "kast",
+      "wc",
       "toilet",
       "toilet",
       "water",
@@ -19256,7 +19328,7 @@
       "aangekomen",
       "bagage",
       "tassen",
-      "geval",
+      "koffer",
       "gecontroleerd",
       "claim",
       "reis",
@@ -19274,7 +19346,7 @@
     "tags": [
       "achtergelaten bagage",
       "bagage",
-      "geval",
+      "koffer",
       "kast",
       "bagage"
     ],
@@ -19286,7 +19358,7 @@
     "tags": [
       "Waarschuwing",
       "let op",
-      "Melding",
+      "melding",
       "gevaar"
     ],
     "rank": 185
@@ -19451,8 +19523,8 @@
     "emoji": "☣️",
     "shortName": "biohazard_sign",
     "tags": [
-      "biohazard bord",
-      "biohazard",
+      "biologisch gevaar bord",
+      "biologisch gevaar",
       "teken",
       "gevaar",
       "gevaar",
@@ -19467,7 +19539,7 @@
     "tags": [
       "pijl omhoog",
       "pijl",
-      "kardinaal",
+      "richting",
       "richting",
       "noord",
       "pijl omhoog",
@@ -19482,7 +19554,7 @@
       "pijl rechtsboven",
       "pijl",
       "richting",
-      "intercardinaal",
+      "richting",
       "noordoost",
       "pijl omhoog naar rechts",
       "rechtsboven"
@@ -19495,7 +19567,7 @@
     "tags": [
       "pijl naar rechts",
       "pijl",
-      "kardinaal",
+      "richting",
       "richting",
       "oost",
       "pijl naar rechts",
@@ -19511,7 +19583,7 @@
       "pijl",
       "richting",
       "pijl naar beneden rechts",
-      "intercardinaal",
+      "richting",
       "zuidoost",
       "rechtsonder"
     ],
@@ -19523,7 +19595,7 @@
     "tags": [
       "pijl naar beneden",
       "pijl",
-      "kardinaal",
+      "richting",
       "richting",
       "naar beneden",
       "pijl omlaag",
@@ -19540,7 +19612,7 @@
       "pijl",
       "richting",
       "pijl naar beneden links",
-      "intercardinaal",
+      "richting",
       "zuidwest",
       "linksonder"
     ],
@@ -19552,7 +19624,7 @@
     "tags": [
       "pijl naar links",
       "pijl",
-      "kardinaal",
+      "richting",
       "richting",
       "pijl naar links",
       "west",
@@ -19567,7 +19639,7 @@
       "pijl linksboven",
       "pijl",
       "richting",
-      "intercardinaal",
+      "richting",
       "noordwest",
       "pijl omhoog naar links",
       "linksboven"
@@ -19617,7 +19689,7 @@
       "pijl rechtse hoek",
       "pijl",
       "pijl naar links die naar rechts buigt",
-      "Doorsturen"
+      "doorsturen"
     ],
     "rank": 1202
   },
@@ -19678,7 +19750,7 @@
     "emoji": "🔙",
     "shortName": "back",
     "tags": [
-      "Terug",
+      "terug",
       "pijl",
       "pijl terug"
     ],
@@ -19812,7 +19884,7 @@
       "latijns kruis",
       "christus",
       "Christian",
-      "cross",
+      "kruis",
       "religie",
       "christendom"
     ],
@@ -19824,7 +19896,7 @@
     "tags": [
       "orthodox kruis",
       "Christian",
-      "cross",
+      "kruis",
       "religie"
     ],
     "rank": 1193
@@ -19899,7 +19971,7 @@
     "emoji": "♈",
     "shortName": "aries",
     "tags": [
-      "Ram",
+      "ram",
       "horoscoop",
       "ram",
       "dierenriem"
@@ -20001,7 +20073,7 @@
     "emoji": "♑",
     "shortName": "capricorn",
     "tags": [
-      "capricorn",
+      "steenbok",
       "geit",
       "horoscoop",
       "dierenriem"
@@ -20101,7 +20173,7 @@
       "dubbel",
       "Snel",
       "snel vooruit knop",
-      "Doorsturen"
+      "doorsturen"
     ],
     "rank": 610
   },
@@ -20306,7 +20378,7 @@
       "antenne",
       "antennestaven",
       "bar",
-      "bars",
+      "staven",
       "cel",
       "Communicatie",
       "mobiel",
@@ -20394,7 +20466,7 @@
       "vermenigvuldiging",
       "vermenigvuldigen",
       "x",
-      "cross",
+      "kruis",
       "Stoppen"
     ],
     "rank": 588
@@ -20595,10 +20667,10 @@
     "shortName": "medical_symbol",
     "tags": [
       "medisch symbool",
-      "aesculapius",
+      "esculaap",
       "geneeskunde",
       "personeel",
-      "staf van aesculapius"
+      "staf van asclepius"
     ],
     "rank": 1169
   },
@@ -20643,7 +20715,7 @@
     "shortName": "name_badge",
     "tags": [
       "naambadge",
-      "Badge",
+      "badge",
       "Naam"
     ],
     "rank": 774
@@ -20701,8 +20773,8 @@
     "emoji": "☑️",
     "shortName": "ballot_box_with_check",
     "tags": [
-      "stembus met cheque",
-      "Stembiljet",
+      "stembus met vinkje",
+      "stembiljet",
       "doos",
       "Check",
       "afgevinkt",
@@ -20737,7 +20809,7 @@
       "vermenigvuldiging",
       "vermenigvuldigen",
       "Annuleren",
-      "cross",
+      "kruis",
       "mark",
       "Nee",
       "×"
@@ -20846,6 +20918,16 @@
       "mark",
       "handelsmerk",
       "merk"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "vlek",
+      "spetteren",
+      "spetter"
     ],
     "rank": 0
   },
@@ -20997,7 +21079,7 @@
     "emoji": "🔠",
     "shortName": "capital_abcd",
     "tags": [
-      "hoofdstad abcd",
+      "hoofdletter abcd",
       "abcd",
       "invoer",
       "invoer latijnse hoofdletters",
@@ -21508,7 +21590,7 @@
     "shortName": "large_blue_circle",
     "tags": [
       "grote blauwe cirkel",
-      "Blauw",
+      "blauw",
       "blauwe cirkel",
       "cirkel",
       "geometrisch"
@@ -21603,7 +21685,7 @@
     "shortName": "large_blue_square",
     "tags": [
       "groot blauw vierkant",
-      "Blauw",
+      "blauw",
       "Vierkant"
     ],
     "rank": 0
@@ -21724,7 +21806,7 @@
     "shortName": "large_blue_diamond",
     "tags": [
       "grote blauwe diamant",
-      "Blauw",
+      "blauw",
       "diamant",
       "geometrisch"
     ],
@@ -21746,7 +21828,7 @@
     "shortName": "small_blue_diamond",
     "tags": [
       "kleine blauwe diamant",
-      "Blauw",
+      "blauw",
       "diamant",
       "geometrisch"
     ],
@@ -21832,7 +21914,7 @@
       "geruit",
       "geblokt",
       "geblokte vlag",
-      "KLAAR",
+      "finish",
       "Vlaggen",
       "Vlaggen",
       "spel",
@@ -21862,7 +21944,7 @@
     "shortName": "crossed_flags",
     "tags": [
       "gekruiste vlaggen",
-      "cross",
+      "kruis",
       "Gekruist",
       "japanse",
       "feest"
@@ -21952,7 +22034,7 @@
     "emoji": "🇦🇩",
     "shortName": "flag-ad",
     "tags": [
-      "vlag advertentie",
+      "vlag ad",
       "andorra",
       "Vlaggen"
     ],
@@ -22014,7 +22096,7 @@
     "emoji": "🇦🇲",
     "shortName": "flag-am",
     "tags": [
-      "vlag ben",
+      "vlag am",
       "armenië",
       "Vlaggen"
     ],
@@ -22145,7 +22227,7 @@
     "emoji": "🇧🇪",
     "shortName": "flag-be",
     "tags": [
-      "vlag worden",
+      "vlag be",
       "belgië",
       "Vlaggen"
     ],
@@ -22305,7 +22387,7 @@
     "emoji": "🇧🇾",
     "shortName": "flag-by",
     "tags": [
-      "vlag door",
+      "vlag by",
       "belarus",
       "Vlaggen"
     ],
@@ -22336,7 +22418,7 @@
     "shortName": "flag-cc",
     "tags": [
       "vlag cc",
-      "cocos kieling eilanden",
+      "cocoseilanden",
       "Vlaggen"
     ],
     "rank": 1453
@@ -22454,6 +22536,16 @@
     "rank": 1154
   },
   {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "vlag van sark",
+      "vlag",
+      "sark"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🇨🇷",
     "shortName": "flag-cr",
     "tags": [
@@ -22478,7 +22570,7 @@
     "shortName": "flag-cv",
     "tags": [
       "vlag cv",
-      "cape verde",
+      "kaapverdië",
       "Vlaggen"
     ],
     "rank": 1467
@@ -22579,7 +22671,7 @@
     "emoji": "🇩🇴",
     "shortName": "flag-do",
     "tags": [
-      "vlag doen",
+      "vlag do",
       "dominicaanse republiek",
       "Vlaggen"
     ],
@@ -22590,7 +22682,7 @@
     "shortName": "flag-dz",
     "tags": [
       "vlag dz",
-      "Algerije",
+      "algerije",
       "Vlaggen"
     ],
     "rank": 988
@@ -22729,7 +22821,7 @@
     "emoji": "🇫🇴",
     "shortName": "flag-fo",
     "tags": [
-      "vlag voor",
+      "vlag fo",
       "Faeröer eilanden",
       "Vlaggen"
     ],
@@ -23106,7 +23198,7 @@
       "het",
       "Vlaggen",
       "italië",
-      "markeer het"
+      "vlag it"
     ],
     "rank": 546
   },
@@ -23519,7 +23611,7 @@
     "emoji": "🇲🇷",
     "shortName": "flag-mr",
     "tags": [
-      "vlag meneer",
+      "vlag mr",
       "Vlaggen",
       "mauritanië"
     ],
@@ -23679,7 +23771,7 @@
     "emoji": "🇳🇴",
     "shortName": "flag-no",
     "tags": [
-      "vlag nee",
+      "vlag no",
       "Vlaggen",
       "noorwegen"
     ],
@@ -23952,7 +24044,7 @@
     "emoji": "🇸🇧",
     "shortName": "flag-sb",
     "tags": [
-      "iem. vlaggen",
+      "vlag sb",
       "Vlaggen",
       "Salomonseilanden"
     ],
@@ -24072,7 +24164,7 @@
     "emoji": "🇸🇴",
     "shortName": "flag-so",
     "tags": [
-      "vlag dus",
+      "vlag so",
       "Vlaggen",
       "somalië"
     ],
@@ -24264,7 +24356,7 @@
     "emoji": "🇹🇴",
     "shortName": "flag-to",
     "tags": [
-      "vlag naar",
+      "vlag to",
       "Vlaggen",
       "tonga"
     ],

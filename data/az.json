@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "gözlərin altı şişkin olan üz",
+      "şişkinliklər",
+      "gözlər",
+      "halsızlıq",
+      "xumarlıq",
+      "yorğun"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "barmaq izi",
+      "barmaq",
+      "barmaq izi"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "yencək",
+      "xərçəng",
+      "bürc"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "xərçəng",
+      "Heyvan",
+      "biskvit",
+      "pəncələr",
+      "qırmızı lobster",
+      "dəniz məhsulları"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "karides",
+      "Ərzaq",
+      "qabıqlı balıqlar",
+      "Kiçik"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "kalamar",
+      "Heyvan",
+      "Ərzaq",
+      "molyusk"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "istiridye",
+      "dalğıc",
+      "inci"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "yarpaqsız ağac",
+      "budaq",
+      "ağac",
+      "kötük"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "qəhvəyi göbələk"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "tərəvəz kökü",
+      "turp",
+      "kök",
+      "tərəvəz"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "istiridyə qabı"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "yencək",
-      "xərçəng",
-      "bürc"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "xərçəng",
-      "Heyvan",
-      "biskvit",
-      "pəncələr",
-      "qırmızı lobster",
-      "dəniz məhsulları"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "karides",
-      "Ərzaq",
-      "qabıqlı balıqlar",
-      "Kiçik"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "kalamar",
-      "Heyvan",
-      "Ərzaq",
-      "molyusk"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "istiridye",
-      "dalğıc",
-      "inci"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Səssiz",
       "Səs",
       "Dinamik",
+      "Səs",
       "həcm"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Dinamik",
       "yumşaq",
       "Səs",
-      "dinamik aşağı səs"
+      "dinamik aşağı səs",
+      "Səs"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Səs",
       "Orta",
-      "dinamik orta səs"
+      "dinamik orta səs",
+      "Səs"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "ucadan",
       "musiqi",
       "Səs",
-      "dinamik yüksək səs"
+      "dinamik yüksək səs",
+      "Səs"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "səviyyəli sürüşdürmə",
       "səviyyə",
       "musiqi",
-      "sürüşdürmə"
+      "sürüşdürmə",
+      "səs"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "boru",
       "yazıcı",
       "ağac nəfəsi"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "arfa",
+      "alət",
+      "musiqi"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "bel",
+      "qazmaq"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "içməli su",
       "içmək",
       "içməli",
-      "su"
+      "su",
+      "kran",
+      "çanaq",
+      "su damcısı"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "sıçrama",
+      "səpələmə",
+      "ləkə"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "clipperton adası"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "dalğalanan bayraq",
+      "Bayraq",
+      "yellənən bayraq"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

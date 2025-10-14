@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "fytyrë me rrathë të zinj nën sy",
+      "rrathë të zinj të syve",
+      "sytë",
+      "efekti i pakëndshëm pas dehjes",
+      "gjendja pas dehjes",
+      "i lodhur"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "shenja e gishtave",
+      "gisht",
+      "shenjë gishtash"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "gaforre",
+      "kanceri",
+      "zodiakut"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "karavidhe",
+      "Kafshë",
+      "biskota",
+      "kthetrat",
+      "karavidhe e kuqe",
+      "ushqim deti"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "karkaleca",
+      "Ushqim",
+      "butak",
+      "Vogël"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "kallamar",
+      "Kafshë",
+      "Ushqim",
+      "molusku"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "gocë deti",
+      "zhytje",
+      "perla"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "pemë pa gjethe",
+      "degë",
+      "pemë",
+      "trungu"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "kërpudha kafe"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "perime me rrënjë",
+      "rrepa",
+      "rrënjë",
+      "perime"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "kovë gocë deti"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "gaforre",
-      "kanceri",
-      "zodiakut"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "karavidhe",
-      "Kafshë",
-      "biskota",
-      "kthetrat",
-      "karavidhe e kuqe",
-      "ushqim deti"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "karkaleca",
-      "Ushqim",
-      "butak",
-      "Vogël"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "kallamar",
-      "Kafshë",
-      "Ushqim",
-      "molusku"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "gocë deti",
-      "zhytje",
-      "perla"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Heshtazi",
       "Tingull",
       "Altoparlant",
+      "Audio",
       "vëllimi"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Altoparlant",
       "i butë",
       "Tingull",
-      "volum i ulët i altoparlantit"
+      "volum i ulët i altoparlantit",
+      "Audio"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Tingull",
       "Mesatare",
-      "volum mesatar i altoparlantit"
+      "volum mesatar i altoparlantit",
+      "Audio"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "me zë të lartë",
       "muzikë",
       "Tingull",
-      "zë i lartë i altoparlantit"
+      "zë i lartë i altoparlantit",
+      "Audio"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "rrëshqitësi i nivelit",
       "niveli",
       "muzikë",
-      "rrëshqitës"
+      "rrëshqitës",
+      "volumi"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "tub",
       "regjistrues",
       "erë druri"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harpë",
+      "instrument",
+      "muzikë"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "lopatë",
+      "gërmoj"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "ujë të pijshëm",
       "duke pirë",
       "të pijshëm",
-      "ujë"
+      "ujë",
+      "rubinet",
+      "lavaman",
+      "çezmë"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "spërkatës",
+      "spërkatje",
+      "spërkatje"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "ishulli Clipperton"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "flamuri sark",
+      "Flamur",
+      "sark"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

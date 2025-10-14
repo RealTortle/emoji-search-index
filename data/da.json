@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "ansigt med psoser under øjnene",
+      "poser",
+      "øjne",
+      "tømmermænd",
+      "tømmermændsramt",
+      "træt"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "fingeraftryk",
+      "finger",
+      "aftryk"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "krabbe",
+      "kræft",
+      "stjernetegn"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "hummer",
+      "Dyr",
+      "bisque",
+      "kløer",
+      "rød hummer",
+      "fisk og skaldyr"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "rejer",
+      "Mad",
+      "skaldyr",
+      "Lille"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "blæksprutte",
+      "Dyr",
+      "Mad",
+      "molusc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "østers",
+      "dykning",
+      "perle"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "bladløst træ",
+      "gren",
+      "træ",
+      "træstamme"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "brun champignon"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "rodfrugt",
+      "radise",
+      "rødbede",
+      "grøntsag"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "østersspand"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "krabbe",
-      "kræft",
-      "stjernetegn"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "hummer",
-      "Dyr",
-      "bisque",
-      "kløer",
-      "rød hummer",
-      "fisk og skaldyr"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "rejer",
-      "Mad",
-      "skaldyr",
-      "Lille"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "blæksprutte",
-      "Dyr",
-      "Mad",
-      "molusc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "østers",
-      "dykning",
-      "perle"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Lydløs",
       "Lyd",
       "Højttaler",
+      "lyd",
       "volumen"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Højttaler",
       "blød",
       "Lyd",
-      "højttaler lav lydstyrke"
+      "højttaler lav lydstyrke",
+      "lyd"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Lyd",
       "Medium",
-      "højttaler medium volumen"
+      "højttaler medium volumen",
+      "lyd"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "højt",
       "musik",
       "Lyd",
-      "højttaler høj lydstyrke"
+      "højttaler høj lydstyrke",
+      "lyd"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "niveau skyderen",
       "niveau",
       "musik",
-      "skyderen"
+      "skyderen",
+      "volumenknap"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "rør",
       "Optager",
       "Træblæser"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harpe",
+      "instrument",
+      "musik"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "skovl",
+      "grave"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "drikkevand",
       "drikke",
       "drikkelig",
-      "vand"
+      "vand",
+      "vandhane",
+      "vask",
+      "hane"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "plask",
+      "sprøjt",
+      "splat"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "clipperton island"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "flag",
+      "Flag",
+      "sark"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

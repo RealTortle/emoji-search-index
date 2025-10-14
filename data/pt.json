@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "rosto com olheiras",
+      "olheiras",
+      "olhos",
+      "ressaca",
+      "ressacado",
+      "cansado"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "impressão digital",
+      "dedo",
+      "impressão digital"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "caranguejo",
+      "cancro",
+      "zodíaco"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "lagosta",
+      "Animal",
+      "bisque",
+      "garras",
+      "lagosta vermelha",
+      "frutos do mar"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "camarão",
+      "Comida",
+      "marisco",
+      "Pequena"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "lula",
+      "Animal",
+      "Comida",
+      "molusco"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "ostra",
+      "mergulho",
+      "pearl"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "árvore sem folhas",
+      "ramo",
+      "árvore",
+      "tronco"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "cogumelo castanho"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "vegetal de raiz",
+      "rabanete",
+      "raiz",
+      "vegetal"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "balde de ostras"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "caranguejo",
-      "cancro",
-      "zodíaco"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "lagosta",
-      "Animal",
-      "bisque",
-      "garras",
-      "lagosta vermelha",
-      "frutos do mar"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "camarão",
-      "Comida",
-      "marisco",
-      "Pequena"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "lula",
-      "Animal",
-      "Comida",
-      "molusco"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "ostra",
-      "mergulho",
-      "pearl"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Silencioso",
       "Som",
       "Alta voz",
+      "áudio",
       "volume"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Alta voz",
       "soft",
       "Som",
-      "alto-falante baixo volume"
+      "alto-falante baixo volume",
+      "áudio"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Som",
       "Média",
-      "volume médio do altifalante"
+      "volume médio do altifalante",
+      "áudio"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "em voz alta",
       "música",
       "Som",
-      "alto-falante alto volume"
+      "alto-falante alto volume",
+      "áudio"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "selector de nível",
       "nível",
       "música",
-      "deslizador"
+      "deslizador",
+      "volume"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "tubo",
       "gravador",
       "sopro"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harpa",
+      "instrumento",
+      "música"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "pá",
+      "cavar"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "água potável",
       "a beber",
       "potáveis",
-      "água"
+      "água",
+      "torneira",
+      "lavatório",
+      "torneira"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "salpicos",
+      "splash",
+      "salpicar"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "ilha clipperton"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "bandeira sark",
+      "Bandeira",
+      "sark"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

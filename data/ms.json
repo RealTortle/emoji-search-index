@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "wajah dengan lingkaran bawah mata",
+      "lingkaran",
+      "mata",
+      "pengar",
+      "pengar",
+      "penat"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "cap jari",
+      "jari",
+      "cap jari"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "ketam",
+      "barah",
+      "zodiak"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "udang galah",
+      "Haiwan",
+      "bisque",
+      "cakar",
+      "udang kara merah",
+      "makanan laut"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "udang",
+      "Makanan",
+      "kerang",
+      "Kecil"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "sotong",
+      "Haiwan",
+      "Makanan",
+      "molusc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "tiram",
+      "menyelam",
+      "mutiara"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "pokok tanpa daun",
+      "dahan",
+      "pokok",
+      "batang"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "cendawan coklat"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "sayuran akar",
+      "lobak",
+      "akar",
+      "sayur"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "baldi tiram"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "ketam",
-      "barah",
-      "zodiak"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "udang galah",
-      "Haiwan",
-      "bisque",
-      "cakar",
-      "udang kara merah",
-      "makanan laut"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "udang",
-      "Makanan",
-      "kerang",
-      "Kecil"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "sotong",
-      "Haiwan",
-      "Makanan",
-      "molusc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "tiram",
-      "menyelam",
-      "mutiara"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Senyap",
       "Bunyi",
       "Pembesar suara",
+      "audio",
       "isipadu"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Pembesar suara",
       "lembut",
       "Bunyi",
-      "pembesar suara kelantangan rendah"
+      "pembesar suara kelantangan rendah",
+      "audio"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Bunyi",
       "Sederhana",
-      "pembesar suara kelantangan sederhana"
+      "pembesar suara kelantangan sederhana",
+      "audio"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "kuat",
       "muzik",
       "Bunyi",
-      "pembesar suara kelantangan tinggi"
+      "pembesar suara kelantangan tinggi",
+      "audio"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "peluncur tahap",
       "tahap",
       "muzik",
-      "peluncur"
+      "peluncur",
+      "kelantangan"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "paip",
       "perakam",
       "tiupan kayu"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "hap",
+      "alat",
+      "muzik"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "penyodok",
+      "gali"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "air yang boleh diminum",
       "minum",
       "boleh diminum",
-      "air"
+      "air",
+      "kepala paip",
+      "singki",
+      "spigot"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "percikan",
+      "percikan",
+      "berdepek"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "pulau clipperton"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "Bendera Sark",
+      "Bendera",
+      "Sark"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

@@ -1124,6 +1124,19 @@
     "rank": 72
   },
   {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "worki pod oczami",
+      "podkrążone",
+      "oczy",
+      "kac",
+      "skacowany",
+      "zmęczony"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "😷",
     "shortName": "mask",
     "tags": [
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "odcisk palca",
+      "palec",
+      "linie papilarne"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -9757,6 +9780,61 @@
     "rank": 0
   },
   {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "krab",
+      "rak",
+      "zodiak"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "homar",
+      "Zwierzęta",
+      "bisque",
+      "pazury",
+      "homar czerwony",
+      "owoce morza"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "krewetka",
+      "Żywność",
+      "mięczak",
+      "Mały"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "kalmar",
+      "Zwierzęta",
+      "Żywność",
+      "molusc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "ostryga",
+      "nurkowanie",
+      "perła"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐌",
     "shortName": "snail",
     "tags": [
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "drzewo bez liści",
+      "gałąź",
+      "drzewo",
+      "pień"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10719,6 +10808,17 @@
     "shortName": "brown_mushroom",
     "tags": [
       "brązowy grzyb"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "warzywo korzeniowe",
+      "rzodkiew",
+      "korzeniowe",
+      "warzywo"
     ],
     "rank": 0
   },
@@ -11335,61 +11435,6 @@
       "kubełek na ostrygi"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "krab",
-      "rak",
-      "zodiak"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "homar",
-      "Zwierzęta",
-      "bisque",
-      "pazury",
-      "homar czerwony",
-      "owoce morza"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "krewetka",
-      "Żywność",
-      "mięczak",
-      "Mały"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "kalmar",
-      "Zwierzęta",
-      "Żywność",
-      "molusc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "ostryga",
-      "nurkowanie",
-      "perła"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -16472,6 +16517,7 @@
       "Wycisz",
       "Dźwięk",
       "Głośnik",
+      "dźwięk",
       "tom"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Głośnik",
       "miękka",
       "Dźwięk",
-      "niska głośność głośnika"
+      "niska głośność głośnika",
+      "dźwięk"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Dźwięk",
       "Średni",
-      "głośnik średnio głośny"
+      "głośnik średnio głośny",
+      "dźwięk"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "głośny",
       "muzyka",
       "Dźwięk",
-      "wysoka głośność głośnika"
+      "wysoka głośność głośnika",
+      "dźwięk"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "suwak poziomu",
       "poziom",
       "muzyka",
-      "zasuwa"
+      "zasuwa",
+      "głośność"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "rura",
       "rejestrator",
       "dęte drewniane"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harfa",
+      "instrument",
+      "muzyka"
     ],
     "rank": 0
   },
@@ -18543,6 +18603,15 @@
     "rank": 0
   },
   {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "łopata",
+      "kopać"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "⚗️",
     "shortName": "alembic",
     "tags": [
@@ -19155,7 +19224,10 @@
       "woda pitna",
       "picie",
       "potable",
-      "woda"
+      "woda",
+      "kran",
+      "zlew",
+      "kranik"
     ],
     "rank": 1038
   },
@@ -20850,6 +20922,16 @@
     "rank": 0
   },
   {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "rozprysk",
+      "plusk",
+      "plaśnięcie"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "#️⃣",
     "shortName": "hash",
     "tags": [
@@ -22452,6 +22534,16 @@
       "wyspa clipperton"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "flaga sarku",
+      "flaga",
+      "sark"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",

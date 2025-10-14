@@ -23,7 +23,7 @@
     "shortName": "smiley",
     "tags": [
       "Smiley",
-      "Fantastisch",
+      "fantastisch",
       "Gesicht",
       "grinsen",
       "glücklich",
@@ -51,7 +51,7 @@
       "Mund",
       "öffnen",
       "lächelnd",
-      "lächelndes Gesicht mit offenem Mund & lächelnde Augen"
+      "lächelndes Gesicht mit offenem Mund & lächelnden Augen"
     ],
     "rank": 56
   },
@@ -89,9 +89,9 @@
       "zufrieden",
       "Lächeln",
       "lächelnd",
-      "lächelndes Gesicht mit offenem Mund & geschlossene Augen",
-      "grinsendes, schielendes Gesicht",
-      "Schielen"
+      "lächelndes Gesicht mit offenem Mund & geschlossenen Augen",
+      "grinsendes, blinzelndes Gesicht",
+      "blinzeln"
     ],
     "rank": 22
   },
@@ -107,12 +107,12 @@
       "nervös",
       "öffnen",
       "Lächeln",
-      "lächelndes Gesicht mit offenem Mund & kalter Schweiß",
+      "lächelndes Gesicht mit offenem Mund & kaltem Schweiß",
       "Stress",
       "gestresst",
       "Schweiß",
       "lustig",
-      "schweißnasses Grinsen im Gesicht",
+      "schwitzendes grinsendes Gesicht",
       "heh",
       "lachen",
       "lächelnd"
@@ -125,7 +125,7 @@
     "tags": [
       "sich vor Lachen auf dem Boden wälzen",
       "weinend lachend",
-      "weinerlich lachend",
+      "weinend-lachend",
       "Gesicht",
       "Boden",
       "lustig",
@@ -145,7 +145,7 @@
       "lololol",
       "rofl",
       "roflmao",
-      "Rollen",
+      "rollen",
       "Träne",
       "Tränen",
       "weinen",
@@ -162,7 +162,7 @@
       "weinend lachend",
       "Gesicht",
       "Gesicht mit Freudentränen",
-      "fühlt sich",
+      "fühlt",
       "lustig",
       "haha",
       "hahaha",
@@ -210,7 +210,7 @@
       "Sarkasmus",
       "sarkastisch",
       "dumm",
-      "Ach so..."
+      "oh-oh"
     ],
     "rank": 69
   },
@@ -221,7 +221,7 @@
       "schmelzendes Gesicht",
       "peinlich",
       "haha",
-      "Wärme",
+      "Hitze",
       "heiß",
       "lol",
       "schmelzen",
@@ -239,12 +239,12 @@
     "emoji": "😉",
     "shortName": "wink",
     "tags": [
-      "augenzwinkernd",
+      "augenzwinkern",
       "Gesicht",
       "flirten",
       "Herzensbrecher",
       "sexy",
-      "Dia",
+      "rutschen",
       "necken",
       "zwinkernd",
       "zwinkerndes Gesicht",
@@ -281,7 +281,7 @@
       "märchenhaft",
       "märchenhaft",
       "Fantasie",
-      "Halo",
+      "Heiligenschein",
       "glücklich",
       "friedlich",
       "Lächeln",
@@ -320,7 +320,7 @@
       "bae",
       "Auge",
       "Gesicht",
-      "fühlt sich",
+      "fühlt",
       "Herz",
       "Herzen",
       "ily",
@@ -359,10 +359,10 @@
     "tags": [
       "Herz küssen",
       "143",
-      "adorbs",
+      "süß",
       "bae",
       "Gesicht",
-      "Gesicht einen Kuss blasen",
+      "Gesicht mit Kuss",
       "flirten",
       "Herz",
       "ily",
@@ -427,7 +427,7 @@
     "emoji": "😚",
     "shortName": "kissing_closed_eyes",
     "tags": [
-      "Küssen der geschlossenen Augen",
+      "Küssen mit geschlossenen Augen",
       "143",
       "bae",
       "Erröten",
@@ -440,7 +440,7 @@
       "ily",
       "Kuss",
       "küsst",
-      "Gesicht küssen mit geschlossenen Augen",
+      "küssendes Gesicht mit geschlossenen Augen",
       "Knutschen",
       "unter der Sonne der Toskana",
       "xoxo"
@@ -502,7 +502,7 @@
       "Voll",
       "hungrig",
       "genießen Sie",
-      "Genießen Sie",
+      "genießen",
       "Lächeln",
       "lächelnd",
       "lecker",
@@ -540,7 +540,7 @@
       "Gesicht mit herausgestreckter Zunge & Augenzwinkern",
       "Spaß",
       "lustig",
-      "Scherzartikel",
+      "Scherz",
       ".",
       "nussig",
       "Partei",
@@ -697,7 +697,7 @@
     "emoji": "🫡",
     "shortName": "saluting_face",
     "tags": [
-      "Bußgesicht",
+      "grüßendes Gesicht",
       "viel Glück",
       "Respekt",
       "grüßen",
@@ -756,7 +756,7 @@
       "grundlegend",
       "leer",
       "tot",
-      "unbewegliche",
+      "unbeweglich",
       "ausdruckslos",
       "Gesicht",
       "fein",
@@ -966,7 +966,7 @@
     "tags": [
       "Gesicht ausatmend",
       "blasen",
-      "Blasen",
+      "blasen",
       "ausatmen",
       "erschöpft",
       "seufz.",
@@ -975,7 +975,7 @@
       "atmen",
       "keuchen",
       "stöhnen",
-      "Relief",
+      "Erleichterung",
       "entlastet",
       "Flüstern",
       "pfeifen"
@@ -986,7 +986,7 @@
     "emoji": "🤥",
     "shortName": "lying_face",
     "tags": [
-      "liegendes Gesicht",
+      "lügendes Gesicht",
       "Gesicht",
       "Lügner",
       "liegen",
@@ -1122,6 +1122,19 @@
       "zzzz"
     ],
     "rank": 72
+  },
+  {
+    "emoji": "🫩",
+    "shortName": "face_with_bags_under_eyes",
+    "tags": [
+      "gesicht mit augenringen",
+      "augenringe",
+      "augen",
+      "verkatert",
+      "verkatert sein",
+      "müde"
+    ],
+    "rank": 0
   },
   {
     "emoji": "😷",
@@ -1751,7 +1764,7 @@
     "shortName": "sob",
     "tags": [
       "schluchzen",
-      "Gegröle",
+      "Geheule",
       "weinen",
       "weinend",
       "Gesicht",
@@ -2193,7 +2206,7 @@
     "tags": [
       "Raumangreifer",
       "Außerirdische",
-      "außerirdisches Monstrum",
+      "außerirdisches Monster",
       "Lebewesen",
       "Außerirdische",
       "Gesicht",
@@ -2461,7 +2474,7 @@
     "tags": [
       "amor",
       "143",
-      "adorbs",
+      "liebenswert",
       "Pfeil",
       "Datum",
       "Emotionen",
@@ -2555,7 +2568,7 @@
     "tags": [
       "drehende Herzen",
       "143",
-      "adorbs",
+      "liebenswert",
       "Jahrestag",
       "Emotionen",
       "Herz",
@@ -2688,7 +2701,7 @@
     "tags": [
       "rosa Herz",
       "143",
-      ".",
+      "entzückend",
       "niedlich",
       "Gefühl",
       "Herz",
@@ -3384,7 +3397,7 @@
     "emoji": "🤙",
     "shortName": "call_me_hand",
     "tags": [
-      "rufen Sie mich an",
+      "ruf mich an",
       "Anrufen",
       "Hand",
       "richtig herum",
@@ -4000,7 +4013,7 @@
     "emoji": "🫦",
     "shortName": "biting_lip",
     "tags": [
-      "Beißlippe",
+      "auf die Lippe beißen",
       "beißen",
       "flirten",
       "Kuss",
@@ -8380,6 +8393,16 @@
     "rank": 490
   },
   {
+    "emoji": "🫆",
+    "shortName": "fingerprint",
+    "tags": [
+      "fingerabdruck",
+      "finger",
+      "finger abdruck"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🐵",
     "shortName": "monkey_face",
     "tags": [
@@ -8427,7 +8450,7 @@
     "shortName": "dog",
     "tags": [
       "Hund",
-      "adorbs",
+      "liebenswert",
       "Tier",
       "Hundegesicht",
       "Gesicht",
@@ -8872,7 +8895,7 @@
     "tags": [
       "Schafe",
       "Tier",
-      "baa",
+      "bäh",
       "ewe",
       "Bauernhof",
       "flauschig",
@@ -8916,7 +8939,7 @@
     "tags": [
       "Kamel",
       "Tier",
-      "baktrisch",
+      "Trampeltier",
       "Wüste",
       "Buckel",
       "zwei Buckel",
@@ -9315,7 +9338,7 @@
     "tags": [
       "Pinguin",
       "Tier",
-      "antartica",
+      "Antarktis",
       "Vogel"
     ],
     "rank": 526
@@ -9753,6 +9776,61 @@
       "Meeresleben",
       "Stachel",
       "Tentakel"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🦀",
+    "shortName": "crab",
+    "tags": [
+      "Krabbe",
+      "Krebs",
+      "Sternzeichen"
+    ],
+    "rank": 447
+  },
+  {
+    "emoji": "🦞",
+    "shortName": "lobster",
+    "tags": [
+      "Hummer",
+      "Tier",
+      "Biskuit",
+      "Krallen",
+      "Roter Hummer",
+      "Meeresfrüchte"
+    ],
+    "rank": 545
+  },
+  {
+    "emoji": "🦐",
+    "shortName": "shrimp",
+    "tags": [
+      "Krabben",
+      "Essen",
+      "Schalentiere",
+      "Klein"
+    ],
+    "rank": 550
+  },
+  {
+    "emoji": "🦑",
+    "shortName": "squid",
+    "tags": [
+      "Tintenfisch",
+      "Tier",
+      "Essen",
+      "molusc"
+    ],
+    "rank": 639
+  },
+  {
+    "emoji": "🦪",
+    "shortName": "oyster",
+    "tags": [
+      "Austern",
+      "Tauchen",
+      "Perle"
     ],
     "rank": 0
   },
@@ -10307,6 +10385,17 @@
     "rank": 365
   },
   {
+    "emoji": "🪾",
+    "shortName": "leafless_tree",
+    "tags": [
+      "blattloser baum",
+      "zweig",
+      "baum",
+      "baumstamm"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍇",
     "shortName": "grapes",
     "tags": [
@@ -10723,6 +10812,17 @@
     "rank": 0
   },
   {
+    "emoji": "🫜",
+    "shortName": "root_vegetable",
+    "tags": [
+      "wurzelgemüse",
+      "radieschen",
+      "wurzel",
+      "gemüse"
+    ],
+    "rank": 0
+  },
+  {
     "emoji": "🍞",
     "shortName": "bread",
     "tags": [
@@ -11127,7 +11227,7 @@
     "shortName": "canned_food",
     "tags": [
       "Dosenfutter",
-      "kann"
+      "Dose"
     ],
     "rank": 569
   },
@@ -11335,61 +11435,6 @@
       "Austernkübel"
     ],
     "rank": 1058
-  },
-  {
-    "emoji": "🦀",
-    "shortName": "crab",
-    "tags": [
-      "Krabbe",
-      "Krebs",
-      "Sternzeichen"
-    ],
-    "rank": 447
-  },
-  {
-    "emoji": "🦞",
-    "shortName": "lobster",
-    "tags": [
-      "Hummer",
-      "Tier",
-      "Biskuit",
-      "Krallen",
-      "Roter Hummer",
-      "Meeresfrüchte"
-    ],
-    "rank": 545
-  },
-  {
-    "emoji": "🦐",
-    "shortName": "shrimp",
-    "tags": [
-      "Krabben",
-      "Essen",
-      "Schalentiere",
-      "Klein"
-    ],
-    "rank": 550
-  },
-  {
-    "emoji": "🦑",
-    "shortName": "squid",
-    "tags": [
-      "Tintenfisch",
-      "Tier",
-      "Essen",
-      "molusc"
-    ],
-    "rank": 639
-  },
-  {
-    "emoji": "🦪",
-    "shortName": "oyster",
-    "tags": [
-      "Austern",
-      "Tauchen",
-      "Perle"
-    ],
-    "rank": 0
   },
   {
     "emoji": "🍦",
@@ -11928,7 +11973,7 @@
     "tags": [
       "Gabel und Messer",
       "Frühstück",
-      "breaky",
+      "Frühstück",
       "Kochen",
       "lecker",
       "Abendessen",
@@ -12744,7 +12789,7 @@
     "shortName": "steam_locomotive",
     "tags": [
       "Dampflokomotive",
-      ".",
+      "Begleitwagen",
       "Motor",
       "Lokomotive",
       "Eisenbahn",
@@ -12829,7 +12874,7 @@
     "tags": [
       "Stadtbahn",
       "angekommen",
-      "bart",
+      "Bahn",
       "Einschienenbahn",
       "Eisenbahn"
     ],
@@ -12840,7 +12885,7 @@
     "shortName": "station",
     "tags": [
       "Bahnhof",
-      "bart",
+      "BART Bahn",
       "Eisenbahn",
       "Zug"
     ],
@@ -12851,7 +12896,7 @@
     "shortName": "tram",
     "tags": [
       "Straßenbahn",
-      "bart",
+      "Bahn",
       "Obus"
     ],
     "rank": 1283
@@ -13506,7 +13551,7 @@
       "ankommendes Flugzeug",
       "flugzeug",
       "Flugzeug",
-      "Ankunft mit dem Flugzeug",
+      "Ankunft eines Flugzeugs",
       "Ankünfte",
       "ankommend",
       "Landung",
@@ -13572,8 +13617,8 @@
     "emoji": "🚡",
     "shortName": "aerial_tramway",
     "tags": [
-      "Luftseilbahn",
-      "Antenne",
+      "Seilbahn",
+      "luftig",
       "Kabel",
       "Auto",
       "Gondel",
@@ -15731,7 +15776,7 @@
       "Kunst",
       "Künstler-Palette",
       "kunstvoll",
-      "arty",
+      "künstlerisch",
       "bunt",
       "kreativ",
       "Unterhaltung",
@@ -16202,7 +16247,7 @@
     "tags": [
       "Wanderschuh",
       "Rucksacktourismus",
-      "boot",
+      "Stiefel",
       "brauner Schuh",
       "Camping",
       "Wandern",
@@ -16270,7 +16315,7 @@
     "emoji": "👢",
     "shortName": "boot",
     "tags": [
-      "boot",
+      "Stiefel",
       "Kleidung",
       "Kleidung",
       "Kleid",
@@ -16472,6 +16517,7 @@
       "Lautlos",
       "Ton",
       "Lautsprecher",
+      "Audio",
       "Band"
     ],
     "rank": 1097
@@ -16483,7 +16529,8 @@
       "Lautsprecher",
       "weich",
       "Ton",
-      "geringe Lautstärke des Lautsprechers"
+      "geringe Lautstärke des Lautsprechers",
+      "Audio"
     ],
     "rank": 1063
   },
@@ -16493,7 +16540,8 @@
     "tags": [
       "Ton",
       "Mittel",
-      "Lautsprecher mittlere Lautstärke"
+      "Lautsprecher mittlere Lautstärke",
+      "Audio"
     ],
     "rank": 1030
   },
@@ -16506,7 +16554,8 @@
       "laut",
       "Musik",
       "Ton",
-      "Lautsprecher hohe Lautstärke"
+      "Lautsprecher hohe Lautstärke",
+      "Audio"
     ],
     "rank": 321
   },
@@ -16628,7 +16677,8 @@
       "Pegelschieber",
       "Ebene",
       "Musik",
-      "Schieber"
+      "Schieber",
+      "lautstärke"
     ],
     "rank": 1075
   },
@@ -16812,6 +16862,16 @@
       "Rohr",
       "Blockflöte",
       "Holzblasinstrumente"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪉",
+    "shortName": "harp",
+    "tags": [
+      "harfe",
+      "instrument",
+      "musik"
     ],
     "rank": 0
   },
@@ -18144,7 +18204,7 @@
     "shortName": "wastebasket",
     "tags": [
       "Papierkorb",
-      "kann",
+      "Eimer",
       "Müll"
     ],
     "rank": 445
@@ -18539,6 +18599,15 @@
       "Stufenleiter",
       "Sprosse",
       "Schritt"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🪏",
+    "shortName": "shovel",
+    "tags": [
+      "schaufel",
+      "graben"
     ],
     "rank": 0
   },
@@ -19126,8 +19195,8 @@
     "emoji": "🏧",
     "shortName": "atm",
     "tags": [
-      "atm",
-      "Atmosphärenzeichen",
+      "Geldautomat",
+      "Bankomat-Zeichen",
       "automatisiert",
       "Bank",
       "Bargeld",
@@ -19155,7 +19224,10 @@
       "trinkbares Wasser",
       "Trinken",
       "trinkbar",
-      "Wasser"
+      "Wasser",
+      "wasserhahn",
+      "waschbecken",
+      "hahn"
     ],
     "rank": 1038
   },
@@ -20595,7 +20667,7 @@
     "shortName": "medical_symbol",
     "tags": [
       "medizinisches Symbol",
-      "aesculapius",
+      "Äskulap",
       "Medizin",
       "Mitarbeiter",
       "Äskulapstab"
@@ -20846,6 +20918,16 @@
       "mark",
       "Handelsmarke",
       "Marke"
+    ],
+    "rank": 0
+  },
+  {
+    "emoji": "🫟",
+    "shortName": "splatter",
+    "tags": [
+      "spritzwasser",
+      "spritzen",
+      "spritzer"
     ],
     "rank": 0
   },
@@ -21984,9 +22066,9 @@
     "shortName": "flag-ag",
     "tags": [
       "flagge ag",
-      "antigua & barbuda",
+      "Antigua & Barbuda",
       "Flagge",
-      "antigua barbuda"
+      "Antigua und Barbuda"
     ],
     "rank": 1404
   },
@@ -22452,6 +22534,16 @@
       "Clipperton-Insel"
     ],
     "rank": 1154
+  },
+  {
+    "emoji": "🇨🇶",
+    "shortName": "flag-sark",
+    "tags": [
+      "flagge sarks",
+      "Flagge",
+      "sarks"
+    ],
+    "rank": 0
   },
   {
     "emoji": "🇨🇷",
